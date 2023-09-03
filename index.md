@@ -1,30 +1,30 @@
 ---
 ---
 
-# Lab Website Template
+# Green Energy & Digital Process Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+[Green Energy & Digital Process Lab](https://uowhydrogen.github.io) is a research center at the University of Warwick led by Prof.Sai Gu. 
+We focus on the study of hydrogen economy, pay closed attention to the functionalized materials including electrodes, membranes,catalysts, and porous transport layer. By applying machine learning and virtural reality tools,we further enhance the impact of our research and make it significant to change the daily life. 
 
 {%
   include button.html
   type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+  link="https://github.com/TSdreamer"
 %}
 {%
   include button.html
   type="github"
   text="On GitHub"
-  link="greenelab/lab-website-template"
+  link="https://github.com/UoWHydrogen"
 %}
 
 {% include section.html %}
 
 ## Highlights
 
-{% capture text %}
+{%Green Energy & Digital Process Lab%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Equipped with state-of-the-art labs and testing facilities, the lab conducts experiments on hydrogen production using cutting-edge equipment and methodologies. We focus on the development, testing and innovation of technologies and processes related to sustainable and renewable hydrogen source s, as well as the integration of digital technologies to optimize energy production and consumption.
 
 {%
   include button.html
@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our consistent collaborations with numerous industrial partners, spanning research and industrial projects alike, demonstrate our enduring commitment to innovation and impactful outcomes. These partnerships highlight our expertise, reliability, and shared dedication to advancing technology and sustainability.Check below for more details.
 
 {%
   include button.html
@@ -72,7 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We're a dedicated and diverse group of experts in renewable energy and digital optimization. With our wealth of experience and shared passion for innovation, we collaborate seamlessly to tackle complex challenges. Our mission? Reshaping the energy landscape for a more sustainable, smarter world.
 
 {%
   include button.html
