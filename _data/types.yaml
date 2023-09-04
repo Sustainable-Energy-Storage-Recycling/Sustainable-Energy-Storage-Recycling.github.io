@@ -82,13 +82,13 @@ google-scholar:
   icon: fa-brands fa-google
   text: Google Scholar
   tooltip: Google Scholar
-  link: https://scholar.google.com/citations?user=$VALUE
+  link: https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=zh-CN&oi=ao
 
 github:
   icon: fa-brands fa-github
   text: GitHub
   tooltip: GitHub
-  link: https://github.com/$VALUE
+  link: https://github.com/TSdreamer
 
 twitter:
   icon: fa-brands fa-twitter
