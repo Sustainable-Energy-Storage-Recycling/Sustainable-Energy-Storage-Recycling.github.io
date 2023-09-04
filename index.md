@@ -8,7 +8,7 @@ We focus on the study of hydrogen economy, pay closed attention to the functiona
 
 {%
   include button.html
-  type="web"
+  type="docs"
   text="Main Executor"
   link="https://github.com/TSdreamer"
 %}
