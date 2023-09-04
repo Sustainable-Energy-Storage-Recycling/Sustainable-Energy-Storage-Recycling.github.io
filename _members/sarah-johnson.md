@@ -1,13 +1,11 @@
 ---
-name: Haotian Ma
-image: images/photo.jpg
-role: Ph.D. Candidate
-description: Ph.D. Candidate
-aliases:
-  - H.Ma
-  - Kirin
+name: Sai Gu
+image: sai-gu.jpg
+role: Principal Investigator
+description: Principal Investigator
+
 links:
-  home-page: https://github.com/TSdreamer
+  https://peoplesearch.warwick.ac.uk/profile/1972343/0
 ---
 
-Ph.D. candidate at the University of Warwick.
+Vice Chancellor,Principal Investigator
