@@ -1,7 +1,7 @@
 ---
 name: Haotian Ma
 image: haotian-ma.jpeg
-role: pi
+role: Ph.D. Candidate
 aliases:
   - H.Ma
   - Kirin
