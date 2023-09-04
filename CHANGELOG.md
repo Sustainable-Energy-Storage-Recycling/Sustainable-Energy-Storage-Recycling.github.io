@@ -1,7 +1,12 @@
 # Changelog
 
 Reference: common-changelog.org
+## 1.1.5 - 2023-09-05
 
+### Changes
+
+- Changed with our own research 
+- 
 ## 1.1.5 - 2023-05-19
 
 ### Changes
