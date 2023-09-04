@@ -39,7 +39,7 @@ Equipped with state-of-the-art equipment and testing facilities, the lab conduct
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="hydrogen.png"
   link="research"
   title="Our Research"
   text=text
@@ -62,7 +62,7 @@ Our consistent collaborations with numerous industrial partners, spanning resear
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="hydrogen2.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -87,7 +87,7 @@ We're a dedicated and diverse group of experts in renewable energy and digital o
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="hydrogen3.jpg"
   link="team"
   title="Our Team"
   text=text
