@@ -7,7 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are a dedicated group of professionals united by a common mission: to drive innovation, efficiency, and excellence in energy-related processes within our organization. Our team plays a pivotal role in shaping the digital landscape of our company, fostering collaboration, and driving sustainable practices in the energy sector.
+We are a dedicated group of professionals united by a common mission to drive innovation, efficiency, and excellence in energy-related processes within our organization. 
+Our team plays a pivotal role in shaping the digital landscape of our company, fostering collaboration, and driving sustainable practices in the energy sector.
 
 {% include section.html %}
 
@@ -24,8 +25,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="haotian-ma.jpeg" %}
+{% include figure.html image="liang-xu.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
