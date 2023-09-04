@@ -47,7 +47,7 @@ Equipped with state-of-the-art equipment and testing facilities, the lab conduct
 
 {% capture text %}
 
-Our consistent collaborations with numerous industrial partners, spanning research and industrial projects alike, demonstrate our enduring commitment to innovation and impactful outcomes. These partnerships highlight our expertise, reliability, and shared dedication to advancing technology and sustainability.Check below for more details.
+Our consistent collaborations with numerous industrial partners, spanning research and industrial projects alike, demonstrate our enduring commitment to innovation and impactful outcomes. These partnerships highlight our expertise, reliability, and shared dedication to advancing technology and sustainability.
 
 {%
   include button.html
