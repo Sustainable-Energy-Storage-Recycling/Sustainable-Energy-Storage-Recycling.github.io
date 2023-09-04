@@ -1,10 +1,10 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
+name: Liang Xu
+image: liang-xu.jpg
+role: phd candidate
 group: alum
 links:
-  github: john-doe
+  github: https://github.com/leoxu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+2022-now,PhD candidate in Electrical and Electronic Engineering,at the University of Warwick
