@@ -2,6 +2,7 @@
 name: Liang Xu
 image: images/photo.jpg
 role: Ph.D. Candidate
+description: Ph.D. Candidate
 group: alum
 links:
   github: https://github.com/leoxu
