@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
+name: Sai Gu
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Principle Integrator 
+role: Lead
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: saigu@warwick.ac.uk
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Vice chancellor,FEng
