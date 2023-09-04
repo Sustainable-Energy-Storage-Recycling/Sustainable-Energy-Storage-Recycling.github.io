@@ -1,10 +1,13 @@
 ---
-name: Sai Gu
+name: Haotian Ma
 image: images/photo.jpg
-description: Principle Integrator 
-role: Lead
+role: Ph.D. Candidate
+description: Ph.D. Candidate
+aliases:
+  - H.Ma
+  - Kirin
 links:
-  email: saigu@warwick.ac.uk
+  home-page: https://github.com/TSdreamer
 ---
 
-Vice chancellor,FREng
+PhD candidate at the University of Warwick.
