@@ -1,13 +1,13 @@
 ---
 title: Team
 nav:
-  order: 5
+  order: 3
   tooltip: About our team
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Our interexchange culture team 
+We are a dedicated group of professionals united by a common mission: to drive innovation, efficiency, and excellence in energy-related processes within our organization. Our team plays a pivotal role in shaping the digital landscape of our company, fostering collaboration, and driving sustainable practices in the energy sector.
 
 {% include section.html %}
 
