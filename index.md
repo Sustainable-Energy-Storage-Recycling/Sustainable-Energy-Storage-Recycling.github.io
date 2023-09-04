@@ -22,7 +22,7 @@ We focus on the study of hydrogen economy, pay closed attention to the functiona
 
 ## Highlights
 
-{%Green Energy & Digital Process Lab%}
+{%capture text%}
 
 Equipped with state-of-the-art labs and testing facilities, the lab conducts experiments on hydrogen production using cutting-edge equipment and methodologies. We focus on the development, testing and innovation of technologies and processes related to sustainable and renewable hydrogen source s, as well as the integration of digital technologies to optimize energy production and consumption.
 
