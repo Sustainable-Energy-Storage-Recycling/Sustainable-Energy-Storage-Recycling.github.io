@@ -2,6 +2,7 @@
 name: Haotian Ma
 image: images/photo.jpg
 role: Ph.D. Candidate
+description: Ph.D. Candidate
 aliases:
   - H.Ma
   - Kirin
