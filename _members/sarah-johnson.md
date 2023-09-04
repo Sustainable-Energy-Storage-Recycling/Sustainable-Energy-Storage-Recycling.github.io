@@ -7,4 +7,4 @@ links:
   email: saigu@warwick.ac.uk
 ---
 
-Vice chancellor,FEng
+Vice chancellor,FREng
