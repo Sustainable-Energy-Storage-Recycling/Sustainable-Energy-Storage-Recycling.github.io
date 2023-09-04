@@ -1,6 +1,6 @@
 ---
 name: Liang Xu
-image: liang-xu.jpg
+image: images/photo.jpg
 role: Ph.D. Candidate
 group: alum
 links:
