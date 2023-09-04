@@ -1,4 +1,4 @@
-source "https://github.com/TSdreamer"
+source "https://rubygems.org"
 
 # jekyll
 gem "jekyll", "~> 4.3"
