@@ -1,6 +1,6 @@
 ---
 name: Haotian Ma
-image: haotian-ma.jpeg
+image: images/photo.jpg
 role: Ph.D. Candidate
 aliases:
   - H.Ma
