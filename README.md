@@ -1,30 +1,23 @@
-<h1 align="center">Lab Website Template</h1>
-<p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/images/share.jpg?raw=true" alt="Lab Website Template">
-</p>
+<h1 align="center">:wave: Welcome to GEDPL </h1>
 
-Lab Website Template (LWT) is an easy-to-use, flexible website template for labs.
-Spend less time worrying about managing a website and citations, and more time running your lab.
 
-👇👇 **Get Started** 👇👇
+<div style="display: flex; justify-content: space-between; align-items: flex-end;">
+  <img src="https://baltictransportjournal.com/assets/files/news/hydrogen-produksjon-ny-eng.gif" width="400" />
+  <img src="https://i.imgur.com/JlXPELW.jpg" width="400" /> 
+</div>
 
-[**Documentation**](https://greene-lab.gitbook.io/lab-website-template-docs)
+Welcome to the **GitHub Homepage** of the  **Green Energy and Digital Processes Lab** led by **Prof.Sai Gu** at the **University of Warwick**. 
 
-## Key Features
 
-- 🤖 Based on Git, GitHub, and Jekyll.
-- 📜 Automatically generated citations from simple identifiers (DOI, PubMed, ORCID, and many more) using Manubot. E.g. `doi:1234/5678` -> `title`, `authors`, `publisher`, `date`, etc.
-- 🧱 A comprehensive and flexible suite of pre-made components (building blocks) for structuring and styling your website:
-  - Formatted tables, code blocks, figures, and other basic elements.
-  - Citations with thumbnails and other rich details.
-  - List large sets of data with flexible filters and components.
-  - ...many more
-- 👁️ Automatic pull request previews.
-- ⚙️ Easy and automated configuration.
-- 👥 Team member pages with bios, roles, and social media links.
-- 🖋️ Blog posts with tags and rich content.
-- 📱 Works and looks good on desktop and mobile.
-- 🤝 Great documentation and support (if we do say so ourselves).
-- ... and much more!
+The **Green Energy & Digital Processes Lab**(GEDPL) focuses on the study of hydrogen economy, pays closed attention to the **functionalized materials** including **electrodes**, **membranes**,**catalysts**, and **porous transport layer**. By applying **machine learning** and **virtural reality** tools,we further enhance the impact of our research and make it significant to change the daily life. 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
+<!--   GreenHydrogen -->
+![My Local Image](./Green-Hydrogen.jpg)
+
+GEDPL is lead by [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao) and excuted by [Mr. Haotian Ma](https://github.com/TSdreamer). GEDPL is located at the [University of Warwick](https://warwick.ac.uk/) , in the [School of Engineering](https://warwick.ac.uk/fac/sci/eng/).
+
+<!-- GreenEnergy-->
+![My Local Image](./Energy.png)
+
+
+For more information on the type of projects being pursued by the GEDPL team, take a look at the publications page of [Prof. Sai Gu](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao).
