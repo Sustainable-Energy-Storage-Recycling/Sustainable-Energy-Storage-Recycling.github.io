@@ -24,7 +24,7 @@ We focus on the study of hydrogen economy, pay closed attention to the functiona
 
 {%capture text%}
 
-Equipped with state-of-the-art labs and testing facilities, the lab conducts experiments on hydrogen production using cutting-edge equipment and methodologies. We focus on the development, testing and innovation of technologies and processes related to sustainable and renewable hydrogen source s, as well as the integration of digital technologies to optimize energy production and consumption.
+Equipped with state-of-the-art equipment and testing facilities, the lab conducts cutting-edge experiments on hydrogen production. We focus on the development, testing and innovation of technologies and processes related to sustainable and renewable hydrogen sources, as well as the integration of digital technologies to optimize energy production and consumption.
 
 {%
   include button.html
@@ -72,7 +72,7 @@ Our consistent collaborations with numerous industrial partners, spanning resear
 
 {% capture text %}
 
-We're a dedicated and diverse group of experts in renewable energy and digital optimization. With our wealth of experience and shared passion for innovation, we collaborate seamlessly to tackle complex challenges. Our mission? Reshaping the energy landscape for a more sustainable, smarter world.
+We're a dedicated and diverse group of experts in renewable energy and digital optimization. With our wealth of experience and shared passion for innovation, we collaborate seamlessly to tackle complex challenges. Our mission is reshaping the energy landscape for a more sustainable, smarter world.
 
 {%
   include button.html
