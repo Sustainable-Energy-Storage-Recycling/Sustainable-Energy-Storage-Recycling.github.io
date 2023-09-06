@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-For more details,please contact [Prof Sai Gu](https://warwick.ac.uk/fac/sci/eng/people/sai_gu/) for more information.
+For more details,please contact [Prof.Sai Gu](https://warwick.ac.uk/fac/sci/eng/people/sai_gu/) for more information.
 
 {%
   include button.html

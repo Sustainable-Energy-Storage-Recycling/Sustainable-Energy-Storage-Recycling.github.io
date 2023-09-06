@@ -1,8 +1,9 @@
 ---
 name: Sai Gu
 image: sai-gu.jpg
-role: Principal Investigator
+role: pi
 description: Principal Investigator
+
 
 links:
   https://warwick.ac.uk/fac/sci/eng/people/sai_gu/
