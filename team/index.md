@@ -12,7 +12,6 @@ Our team plays a pivotal role in shaping the digital landscape of our company, f
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: Principal Investigator" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}

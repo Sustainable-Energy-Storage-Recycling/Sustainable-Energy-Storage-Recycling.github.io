@@ -1,5 +1,5 @@
 ---
-title: Weekly Updates
+title: Reports
 nav:
   order: 4
   tooltip: Musings and miscellany
