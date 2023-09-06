@@ -76,7 +76,7 @@ jobs:
 
           Visit **[website url](#)** 🚀
 
-          _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+          _Built by [Mr.Haotian Ma](https://github.com/TSdreamer)_
           " > README.md
 
       - name: Personalize Jekyll config for user
