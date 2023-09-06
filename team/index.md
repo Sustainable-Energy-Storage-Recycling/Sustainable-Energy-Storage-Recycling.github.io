@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 35
+  order: 5
   tooltip: About our team
 ---
 
@@ -24,11 +24,13 @@ Our team plays a pivotal role in shaping the digital landscape of our company, f
 
 {% capture content %}
 
-{% include figure.html image="sai-gu.jpg" %}
-{% include figure.html image="liang-xu.jpg" %}
-{% include figure.html image="haotian-ma.jpg" %}
-{% include figure.html image="zeyuan-meng.jpg" %}
-{% include figure.html image="junxian-wang.jpg" %}
+{% include figure.html image="01sai-gu.jpg" %}
+{% include figure.html image="02zeyuan-meng.jpg" %}
+{% include figure.html image="03junxian-wang.jpg" %}
+{% include figure.html image="04liang-xu.jpg" %}
+{% include figure.html image="05haotian-ma.jpg" %}
+
+
 
 
 {% endcapture %}

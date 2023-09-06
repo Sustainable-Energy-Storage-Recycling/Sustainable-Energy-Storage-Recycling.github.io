@@ -21,12 +21,7 @@ Our ultimate goal is to accelerate the process of realizing hydrogen occupying 1
   text="Main Executor"
   link="https://github.com/TSdreamer"
 %}
-{%
-  include button.html
-  type="google"
-  text="Main Executor"
-  link="https://github.com/TSdreamer"
-%}
+
 {% include section.html %}
 
 ## Highlights
