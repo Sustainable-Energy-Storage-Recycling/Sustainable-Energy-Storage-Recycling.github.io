@@ -16,7 +16,7 @@ We focus on the study of hydrogen economy, pay closed attention to the functiona
   include button.html
   type="github"
   text="On GitHub"
-  link="UoWHydrogen"
+  link="https://github.com/UoWHydrogen"
 %}
 
 {% include section.html %}
