@@ -24,14 +24,11 @@ Our team plays a pivotal role in shaping the digital landscape of our company, f
 
 {% capture content %}
 
-{% include figure.html image="01sai-gu.jpg" %}
-{% include figure.html image="02zeyuan-meng.jpg" %}
-{% include figure.html image="03junxian-wang.jpg" %}
-{% include figure.html image="04liang-xu.jpg" %}
-{% include figure.html image="05haotian-ma.jpg" %}
-
-
-
+{% include figure.html image="profile/01sai-gu.jpg" %}
+{% include figure.html image="profile/02zeyuan-meng.jpg" %}
+{% include figure.html image="profile/03junxian-wang.jpg" %}
+{% include figure.html image="profile/04liang-xu.jpg" %}
+{% include figure.html image="profile/05haotian-ma.jpg" %}
 
 {% endcapture %}
 

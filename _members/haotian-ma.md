@@ -7,7 +7,8 @@ aliases:
   - H.Ma
   - Kirin
 links:
-  home-page: https://github.com/TSdreamer
+  github: https://github.com/TSdreamer
+  homepage: https://github.com/TSdreamer
 ---
 
 Ph.D. student at the University of Warwick.
