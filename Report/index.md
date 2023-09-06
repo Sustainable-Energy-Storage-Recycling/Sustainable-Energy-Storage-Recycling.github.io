@@ -1,5 +1,5 @@
 ---
-title: Reports
+title: Report
 nav:
   order: 4
   tooltip: Musings and miscellany

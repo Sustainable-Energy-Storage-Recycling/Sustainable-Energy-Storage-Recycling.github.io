@@ -1,6 +1,6 @@
 ---
 name: Sai Gu
-image: sai-gu.jpg
+image: images/photo.jpg
 role: pi
 description: Principal Investigator
 
