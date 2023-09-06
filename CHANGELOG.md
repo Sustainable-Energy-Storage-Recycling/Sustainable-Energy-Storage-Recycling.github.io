@@ -1,7 +1,13 @@
 # Changelog
 
+Reference: In Operation
+## 1.1.6 - 2023-09-06
+
+### Changes
+
+
 Reference: common-changelog.org
-## 1.1.5 - 2023-09-05
+## 1.1.6 - 2023-09-05
 
 ### Changes
 
