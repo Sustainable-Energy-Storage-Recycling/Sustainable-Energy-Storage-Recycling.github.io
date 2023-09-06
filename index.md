@@ -78,7 +78,7 @@ We're a dedicated and diverse group of experts in renewable energy and digital o
 
 {%
   include button.html
-  link="uowhydrogen.github.io/team"
+  link="team"
   text="Meet our Team"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -90,7 +90,7 @@ We're a dedicated and diverse group of experts in renewable energy and digital o
 {%
   include feature.html
   image="hydrogen3.jpg"
-  link="uowhydrogen.github.io/team"
+  link="team"
   title="Our Team"
   text=text
 %}
