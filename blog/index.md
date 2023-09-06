@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Here is the weekly report uploaded from Mr Haotian Ma and Mr Liang Xu.
+Here is the weekly report uploaded from the PhD students in the Group.
 
 {% include section.html %}
 
