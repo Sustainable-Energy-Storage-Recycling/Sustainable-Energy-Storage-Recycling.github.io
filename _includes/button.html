@@ -1,24 +1,42 @@
-{% assign button = include %}
-{% assign button = button | hash_default: site.data.types[include.type] %}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Water molecule -->
+  <circle cx="30" cy="60" r="3" fill="#38bdf8" />
+  <circle cx="40" cy="60" r="3" fill="#38bdf8" />
+  <line x1="30" y1="60" x2="40" y2="60" stroke="#38bdf8" stroke-width="2" />
+  <circle cx="35" cy="50" r="3" fill="#38bdf8" />
+  <line x1="35" y1="53" x2="35" y2="60" stroke="#38bdf8" stroke-width="2" />
+  
+  <!-- Electrolysis symbol -->
+  <rect x="55" y="40" width="10" height="20" fill="#FFA500" />
+  <line x1="60" y1="35" x2="60" y2="45" stroke="#000000" stroke-width="2" />
+  <line x1="60" y1="55" x2="60" y2="65" stroke="#000000" stroke-width="2" />
+  <line x1="55" y1="50" x2="65" y2="50" stroke="#000000" stroke-width="2" />
+  
+  <!-- Hydrogen gas -->
+  <circle cx="80" cy="50" r="5" fill="#FF0000" />
+  <circle cx="87" cy="50" r="5" fill="#FF0000" />
+  <circle cx="94" cy="50" r="5" fill="#FF0000" />
 
-{% if button.link or button.icon or button.text %}
-  <div class="button-wrapper">
-    <a
-      class="button"
-      href="{{ button.link | replace: "$LINK", button.link | relative_url }}"
-      {% if button.tooltip %}
-        data-tooltip="{{ button.tooltip }}"
-      {% endif %}
-      data-style="{{ include.style }}"
-      {% if include.flip %}
-        data-flip
-      {% endif %}
-      aria-label="{{ button.tooltip | default: button.icon | default: "button" }}"
-    >
-      {% include icon.html icon=button.icon %}
-      {% if button.text and button.text != "" %}
-        <span>{{ button.text }}</span>
-      {% endif %}
-    </a>
-  </div>
-{% endif %}
+  <!-- Animation -->
+  <style>
+    .bubble {
+      animation: float 2s ease-out both infinite var(--delay);
+    }
+    @keyframes float {
+      0% {
+        opacity: 0;
+      }
+      50% {
+        transform: translateY(0);
+        opacity: 0;
+      }
+      75% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
+        transform: translateY(-20px);
+      }
+    }
+  </style>
+</svg>
