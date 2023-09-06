@@ -4,10 +4,7 @@
 # Green Energy & Digital Process Lab
 
 [Green Energy & Digital Process Lab](https://uowhydrogen.github.io) is a research center at the University of Warwick led by Prof.Sai Gu.
-
-We focus on enabling the hydrogen economy and choose renewable hydrogen production as the main technical path(Two main selected branches,water electrolysis and biogas reforming). 
-
-With years of continuous efforts and applying artificial intelligence, virtural reality and other rapidly developing technology of the times,we further enhance the impact of the research releated to hydrogen,and therefore unlock the potential of hydrogen energy. Ultimately acclerating hydrogen energy to occupy 15% of energy sector and play a key role in future decarbonization.
+We focus on enabling the hydrogen economy and choose renewable hydrogen production as the main technical path(Two main selected branches,water electrolysis and biogas reforming). With years of continuous efforts and applying artificial intelligence, virtural reality and other rapidly developing technology of the times,we further enhance the impact of the research releated to hydrogen,and therefore unlock the potential of hydrogen energy. Ultimately acclerating hydrogen energy to occupy 15% of energy sector and play a key role in future decarbonization.
 
 
 {%
