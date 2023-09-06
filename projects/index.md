@@ -6,7 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
-Our project is to build a solid future to the future of hydrogen and lead the world changing project to meet the requirements of the future stuff.
+We are open for the industrial project collaboration all around the world.
 
 {% include tags.html tags="publication, resource, website" %}
 

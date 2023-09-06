@@ -7,7 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our work focus on the big topic of "Industry 4.0",and paid closed attention to the following topics including-1.Hydrogen;2.Artifical Intelligence;3.Computer Vision;
+Our work focus on the big topic of "Industry 4.0",and paid closed attention to the following topics including  
+-1.Hydrogen;  
+-2.Artifical Intelligence;  
+-3.Computer Vision;
 
 For more details,please contact Mr.Haotian Ma for more information.
 

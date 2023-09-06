@@ -1,11 +1,9 @@
 ---
-name: Junxian Wang
-image: Junxian-Wang.jpeg
+name: Zeyuan Meng
+image: Zeyuan-Meng.jpeg
 role: Ph.D. Student
 description: Ph.D. Student
-aliases:
-  - H.Ma
-  - Kirin
+
 
 ---
 
