@@ -6,9 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our project is to build a solid future to the future of hydrogen and lead the world changing project to meet the requirements of the future stuff.
 
 {% include tags.html tags="publication, resource, website" %}
 

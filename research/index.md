@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our work focus on the big topic of "Industry 4.0",and paid closed attention to the following topics including-1.Hydrogen;2.Artifical Intelligence;3.Computer Vision;
+
+For more details,please contact..for...
 
 {% include section.html %}
 
