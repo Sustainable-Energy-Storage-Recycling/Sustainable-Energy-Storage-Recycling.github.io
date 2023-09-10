@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-06T21:40:42+00:00</updated><id>/feed.xml</id><title type="html">Green Energy &amp;amp; Digital Process Lab</title><subtitle>Welcome to the Green Energy and Digital Process Lab, where innovation meets sustainability. Our dedicated team is at the forefront of research and development, pioneering solutions that bridge the gap between green energy and cutting-edge digital processes. With a shared commitment to a more sustainable future, we explore the intersection of renewable energy technologies and digital optimization methods. Our expertise and collaborative spirit drive us to create a world where clean energy and digital innovation coexist harmoniously, revolutionizing the way we power our planet.</subtitle><entry><title type="html">1st Weekly Report</title><link href="/2023/09/06/Report1.html" rel="alternate" type="text/html" title="1st Weekly Report" /><published>2023-09-06T00:00:00+00:00</published><updated>2023-09-06T21:39:36+00:00</updated><id>/2023/09/06/Report1</id><content type="html" xml:base="/2023/09/06/Report1.html"><![CDATA[<p>=============</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-10T15:58:11+00:00</updated><id>/feed.xml</id><title type="html">Green Energy &amp;amp; Digital Process Lab</title><subtitle>Welcome to the Green Energy and Digital Process Lab, where innovation meets sustainability. Our dedicated team is at the forefront of research and development, pioneering solutions that bridge the gap between green energy and cutting-edge digital processes. With a shared commitment to a more sustainable future, we explore the intersection of renewable energy technologies and digital optimization methods. Our expertise and collaborative spirit drive us to create a world where clean energy and digital innovation coexist harmoniously, revolutionizing the way we power our planet.</subtitle><entry><title type="html">1st Weekly Report</title><link href="/2023/09/06/Report1.html" rel="alternate" type="text/html" title="1st Weekly Report" /><published>2023-09-06T00:00:00+00:00</published><updated>2023-09-10T15:57:08+00:00</updated><id>/2023/09/06/Report1</id><content type="html" xml:base="/2023/09/06/Report1.html"><![CDATA[<p>=============</p>
 
 <p><strong>Submitted by</strong> Haotian Ma</p>
 
@@ -52,262 +52,261 @@
 
 <blockquote>
   <p>Ideas, suggestions, enquiries for complementary information or requests for the allocation of additional resources.</p>
-</blockquote>]]></content><author><name>Haotian Ma</name></author><category term="biology," /><category term="medicine" /><summary type="html"><![CDATA[=============]]></summary></entry><entry><title type="html">Markdown Template</title><link href="/2000/01/01/Template.html" rel="alternate" type="text/html" title="Markdown Template" /><published>2000-01-01T00:00:00+00:00</published><updated>2023-09-06T21:39:36+00:00</updated><id>/2000/01/01/Template</id><content type="html" xml:base="/2000/01/01/Template.html"><![CDATA[<h2 id="主要内容">主要内容</h2>
+</blockquote>]]></content><author><name>Haotian Ma</name></author><category term="biology," /><category term="medicine" /><summary type="html"><![CDATA[=============]]></summary></entry><entry><title type="html">Markdown Template</title><link href="/2000/01/01/Template.html" rel="alternate" type="text/html" title="Markdown Template" /><published>2000-01-01T00:00:00+00:00</published><updated>2023-09-10T15:57:08+00:00</updated><id>/2000/01/01/Template</id><content type="html" xml:base="/2000/01/01/Template.html"><![CDATA[<h2 id="主要内容">主要内容</h2>
 <blockquote>
-  <h4 id="markdown是什么">Markdown<em>是什么</em>？</h4>
-  <h4 id="谁创造了它"><em>谁</em>创造了它？</h4>
-  <h4 id="为什么要使用它"><em>为什么</em>要使用它？</h4>
-  <h4 id="怎么使用"><em>怎么</em>使用？</h4>
-  <h4 id="谁在用"><em>谁</em>在用？</h4>
-  <h4 id="尝试一下">尝试一下</h4>
+  <h4 id="what-is-markdown">What is Markdown**？</h4>
+  <h4 id="who-creats-it">Who creats it？</h4>
+  <h4 id="why-use-it"><em>Why</em> use it？</h4>
+  <h4 id="how-to-use"><em>How</em> to use？</h4>
+  <h4 id="who-use-it"><em>Who</em> use it？</h4>
+  <h4 id="try-it-now">Try it now</h4>
 </blockquote>
 
 <h2 id="正文">正文</h2>
-<h3 id="1-markdown是什么">1. Markdown<em>是什么</em>？</h3>
-<p><strong>Markdown</strong>是一种轻量级<strong>标记语言</strong>，它以纯文本形式(<em>易读、易写、易更改</em>)编写文档，并最终以HTML格式发布。  <br />
-<strong>Markdown</strong>也可以理解为将以MARKDOWN语法编写的语言转换成HTML内容的工具。</p>
+<h3 id="1-markdowndefinition">1. Markdown<em>Definition</em>？</h3>
+<p><strong>Markdown</strong> is a lightweight <strong>markup language</strong> that writes documents in plain text (<em>easy to read, easy to write, easy to change</em>) and finally publishes them in HTML format.
+<strong>Markdown</strong> can also be understood as a tool for converting languages written in MARKDOWN syntax into HTML content.</p>
 
-<h3 id="2-谁创造了它">2. <em>谁</em>创造了它？</h3>
-<p>它由<a href="http://www.aaronsw.com/"><strong>Aaron Swartz</strong></a>和<strong>John Gruber</strong>共同设计，<strong>Aaron Swartz</strong>就是那位于去年（<em>2013年1月11日</em>）自杀,有着<strong>开挂</strong>一般人生经历的程序员。维基百科对他的<a href="http://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8">介绍</a>是：<strong>软件工程师、作家、政治组织者、互联网活动家、维基百科人</strong>。</p>
+<h3 id="2-who-created-it">2. <em>Who</em> created it?</h3>
+<p>It was co-designed by <a href="http://www.aaronsw.com/"><strong>Aaron Swartz</strong></a> and <strong>John Gruber</strong>, <strong>Aaron Swartz</strong> who was in last year (*January 11, 2013 *) A programmer who committed suicide and had an ordinary life experience. Wikipedia’s [introduction] to him (http://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83% E8%8C%A8) is: <strong>Software Engineer, Author, Political Organizer, Internet Activist, Wikipedian</strong>.</p>
 
-<p>他有着足以让你跪拜的人生经历：</p>
+<p>He has a life experience that is enough to make you bow down:</p>
 <ul>
-  <li><strong>14岁</strong>参与RSS 1.0规格标准的制订。</li>
-  <li><strong>2004</strong>年入读<strong>斯坦福</strong>，之后退学。</li>
-  <li><strong>2005</strong>年创建<a href="http://infogami.org/">Infogami</a>，之后与<a href="http://www.reddit.com/">Reddit</a>合并成为其合伙人。</li>
-  <li><strong>2010</strong>年创立求进会（Demand Progress），积极参与禁止网络盗版法案（SOPA）活动，最终该提案被撤回。</li>
-  <li><strong>2011</strong>年7月19日，因被控从MIT和JSTOR下载480万篇学术论文并以免费形式上传于网络被捕。</li>
-  <li><strong>2013</strong>年1月自杀身亡。</li>
+  <li><strong>14 years old</strong> participated in the formulation of the RSS 1.0 specification standard.</li>
+  <li><strong>Enrolled **Stanford</strong> in 2004**, then dropped out.</li>
+  <li>Created <a href="http://infogami.org/">Infogami</a> in <strong>2005</strong>, and later merged with <a href="http://www.reddit.com/">Reddit</a> to become its partner.</li>
+  <li><strong>In 2010</strong>, he founded Demand Progress and actively participated in the activities of the Suppression of Online Piracy Act (SOPA), which was eventually withdrawn.</li>
+  <li><strong>On July 19, 2011</strong>, he was arrested for allegedly downloading 4.8 million academic papers from MIT and JSTOR and uploading them to the Internet for free.</li>
+  <li>** committed suicide in January 2013**.</li>
 </ul>
 
 <p><img src="https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg" alt="Aaron Swartz" /></p>
 
-<p>天才都有早逝的归途。</p>
-
-<h3 id="3-为什么要使用它">3. <em>为什么</em>要使用它？</h3>
+<h3 id="3-why-should-you-use-it">3. <em>Why</em> should you use it?</h3>
 <ul>
-  <li>它是易读（看起来舒服）、易写（语法简单）、易更改<strong>纯文本</strong>。处处体现着<strong>极简主义</strong>的影子。</li>
-  <li>兼容HTML，可以转换为HTML格式发布。</li>
-  <li>跨平台使用。</li>
-  <li>越来越多的网站支持Markdown。</li>
-  <li>更方便清晰地组织你的电子邮件。（Markdown-here, Airmail）</li>
-  <li>摆脱Word（我不是认真的）。</li>
+  <li>It is easy to read (pleasing to the eye), easy to write (simple syntax), easy to change <strong>plain text</strong>. The shadow of <strong>minimalism</strong> is reflected everywhere.</li>
+  <li>Compatible with HTML, can be converted to HTML format for publishing.</li>
+  <li>Cross-platform use.</li>
+  <li>More and more websites support Markdown.</li>
+  <li>Organize your emails more easily and clearly. (Markdown-here, Airmail)</li>
+  <li>Get rid of Word.</li>
 </ul>
 
-<h3 id="4-怎么使用">4. <em>怎么</em>使用？</h3>
-<p>如果不算<strong>扩展</strong>，Markdown的语法绝对<strong>简单</strong>到让你爱不释手。</p>
+<h3 id="4-how-to-use-it">4. <em>How</em> to use it?</h3>
+<p>If you don’t count <strong>extensions</strong>, Markdown’s syntax is absolutely <strong>simple</strong> and you won’t be able to put it down.</p>
 
-<p>Markdown语法主要分为如下几大部分：
-<strong>标题</strong>，<strong>段落</strong>，<strong>区块引用</strong>，<strong>代码区块</strong>，<strong>强调</strong>，<strong>列表</strong>，<strong>分割线</strong>，<strong>链接</strong>，<strong>图片</strong>，<strong>反斜杠 <code class="language-plaintext highlighter-rouge">\</code></strong>，<strong>符号’`‘</strong>。</p>
+<p>Markdown syntax is mainly divided into the following parts:
+<strong>Title</strong>, <strong>Paragraph</strong>, <strong>Block Quote</strong>, <strong>Code Block</strong>, <strong>Emphasis</strong>, <strong>List</strong>, <strong>Separator</strong>, <strong>Link **, **picture</strong>, <strong>backslash <code class="language-plaintext highlighter-rouge">\</code></strong>, <strong>symbol’’‘</strong>.</p>
 
 <h4 id="41-标题">4.1 标题</h4>
-<p>两种形式：<br />
-1）使用<code class="language-plaintext highlighter-rouge">=</code>和<code class="language-plaintext highlighter-rouge">-</code>标记一级和二级标题。</p>
+<p>Two types：<br />
+1）Use<code class="language-plaintext highlighter-rouge">=</code>and<code class="language-plaintext highlighter-rouge">-</code>to labe first and second caption。</p>
 <blockquote>
-  <p>一级标题 <br />
+  <p>First Caption <br />
 <code class="language-plaintext highlighter-rouge">=========</code> <br />
-二级标题  <br />
+Second Caption<br />
 <code class="language-plaintext highlighter-rouge">---------</code></p>
 </blockquote>
 
-<p>效果：</p>
+<p>Result：</p>
 <blockquote>
-  <h1 id="一级标题">一级标题</h1>
-  <p>二级标题
+  <h1 id="first-caption">First Caption</h1>
+  <p>Second Caption 
 ———</p>
 </blockquote>
 
-<p>2）使用<code class="language-plaintext highlighter-rouge">#</code>，可表示1-6级标题。</p>
+<p>2）Use `# for six different captions。</p>
 <blockquote>
-  <p># 一级标题 <br />
-## 二级标题 <br />
-### 三级标题 <br />
-#### 四级标题 <br />
-##### 五级标题 <br />
-###### 六级标题</p>
+  <p># First Caption<br />
+## Second Caption <br />
+### Third Caption
+#### Fourth Caption<br />
+##### Fifth Caption <br />
+###### Sixth Caption</p>
 </blockquote>
 
 <p>效果：</p>
 <blockquote>
-  <h1 id="一级标题-1">一级标题</h1>
-  <h2 id="二级标题">二级标题</h2>
-  <h3 id="三级标题">三级标题</h3>
-  <h4 id="四级标题">四级标题</h4>
-  <h5 id="五级标题">五级标题</h5>
-  <h6 id="六级标题">六级标题</h6>
+  <h1 id="first-caption-1">First Caption</h1>
+  <h2 id="second-caption">Second Caption</h2>
+  <h3 id="third-caption">Third Caption</h3>
+  <h4 id="fourth-caption">Fourth Caption</h4>
+  <h5 id="fifth-caption">Fifth Caption</h5>
+  <h6 id="sixth-caption">Sixth Caption</h6>
+  <h4 id="42-paragraph">4.2 Paragraph</h4>
+  <p>There must be blank lines before and after the paragraph. The so-called blank line means that there is no text content. If you want to force a newline in a paragraph, use <strong>two or more</strong> spaces plus a carriage return (newlines in quotations omit carriage returns).</p>
 </blockquote>
 
-<h4 id="42-段落">4.2 段落</h4>
-<p>段落的前后要有空行，所谓的空行是指没有文字内容。若想在段内强制换行的方式是使用<strong>两个以上</strong>空格加上回车（引用中换行省略回车）。</p>
-
-<h4 id="43-区块引用">4.3 区块引用</h4>
-<p>在段落的每行或者只在第一行使用符号<code class="language-plaintext highlighter-rouge">&gt;</code>,还可使用多个嵌套引用，如：</p>
+<h4 id="43-block-reference">4.3 Block Reference</h4>
+<p>Use the symbol <code class="language-plaintext highlighter-rouge">&gt;</code> on each line of the paragraph or only on the first line, and you can also use multiple nested quotations, such as:</p>
 <blockquote>
-  <p>&gt; 区块引用<br />
-&gt;&gt; 嵌套引用</p>
+  <p>&gt; Block reference
+&gt;&gt; Nested references</p>
 </blockquote>
 
-<p>效果：</p>
+<p>Effect:</p>
 <blockquote>
-  <p>区块引用</p>
+  <p>Block reference</p>
   <blockquote>
-    <p>嵌套引用</p>
+    <p>Nested references</p>
   </blockquote>
 </blockquote>
 
-<h4 id="44-代码区块">4.4 代码区块</h4>
-<p>代码区块的建立是在每行加上4个空格或者一个制表符（如同写代码一样）。如  <br />
-普通段落：</p>
+<h4 id="44-code-block">4.4 Code Block</h4>
+<p>Code blocks are created by adding 4 spaces or a tab to each line (just like writing code). like  <br />
+Ordinary paragraph:</p>
 
-<p>void main()  <br />
-{  <br />
-    printf(“Hello, Markdown.”);  <br />
+<p>void main()
+{
+     printf(“Hello, Markdown.”);
 }</p>
 
-<p>代码区块：</p>
+<p>Code block:</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>void main()
-{
-    printf("Hello, Markdown.");
-}
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> void main()
+ {
+     printf("Hello, Markdown.");
+ }
 </code></pre></div></div>
 
-<p><strong>注意</strong>:需要和普通段落之间存在空行。</p>
+<p><strong>NOTE</strong>: There is a blank line between required and normal paragraphs.</p>
 
-<h4 id="45-强调">4.5 强调</h4>
-<p>在强调内容两侧分别加上<code class="language-plaintext highlighter-rouge">*</code>或者<code class="language-plaintext highlighter-rouge">_</code>，如：</p>
+<h4 id="45-emphasis">4.5 Emphasis</h4>
+<p>Add <code class="language-plaintext highlighter-rouge">*</code> or <code class="language-plaintext highlighter-rouge">_</code> on both sides of the emphasized content, such as:</p>
 <blockquote>
-  <p>*斜体*，_斜体_  <br />
-**粗体**，__粗体__</p>
+  <p>*italic*, _italic_
+**bold**,__bold__</p>
 </blockquote>
 
-<p>效果：</p>
+<p>Effect:</p>
 <blockquote>
-  <p><em>斜体</em>，<em>斜体</em>  <br />
-<strong>粗体</strong>，<strong>粗体</strong></p>
+  <p><em>italics</em>, <em>italics</em>
+<strong>bold</strong>, <strong>bold</strong></p>
 </blockquote>
 
-<h4 id="46-列表">4.6 列表</h4>
-<p>使用<code class="language-plaintext highlighter-rouge">·</code>、<code class="language-plaintext highlighter-rouge">+</code>、或<code class="language-plaintext highlighter-rouge">-</code>标记无序列表，如：</p>
+<h4 id="46-list">4.6 List</h4>
+<p>Use <code class="language-plaintext highlighter-rouge">·</code>, <code class="language-plaintext highlighter-rouge">+</code>, or <code class="language-plaintext highlighter-rouge">-</code> to mark unordered lists, such as:</p>
 <blockquote>
-  <p>-（+*） 第一项
--（+*） 第二项
-- （+*）第三项</p>
+  <p>-(+*) first item
+-(+*) second term
+- (+*) third term</p>
 </blockquote>
 
-<p><strong>注意</strong>：标记后面最少有一个_空格_或_制表符_。若不在引用区块中，必须和前方段落之间存在空行。</p>
+<p><strong>NOTE</strong>: There must be at least one <em>space</em> or <em>tab</em> after the tag. If it is not in a quoted block, there must be a blank line between it and the preceding paragraph.</p>
 
-<p>效果：</p>
+<p>Effect:</p>
 <blockquote>
   <ul>
-    <li>第一项</li>
-    <li>第二项</li>
-    <li>第三项</li>
+    <li>first item</li>
+    <li>second item</li>
+    <li>third item</li>
   </ul>
 </blockquote>
 
-<p>有序列表的标记方式是将上述的符号换成数字,并辅以<code class="language-plaintext highlighter-rouge">.</code>，如：</p>
-<blockquote>
-  <p>1 . 第一项 <br />
-2 . 第二项  <br />
-3 . 第三项</p>
-</blockquote>
-
-<p>效果：</p>
+<p>The marking method of the ordered list is to replace the above symbols with numbers, supplemented by <code class="language-plaintext highlighter-rouge">.</code>, such as:</p>
 <blockquote>
   <ol>
-    <li>第一项</li>
-    <li>第二项</li>
-    <li>第三项</li>
+    <li>The first item</li>
+    <li>Second item</li>
+    <li>The third item</li>
   </ol>
 </blockquote>
 
-<h4 id="47-分割线">4.7 分割线</h4>
-<p>分割线最常使用就是三个或以上<code class="language-plaintext highlighter-rouge">*</code>，还可以使用<code class="language-plaintext highlighter-rouge">-</code>和<code class="language-plaintext highlighter-rouge">_</code>。</p>
-
-<h4 id="48-链接">4.8 链接</h4>
-<p>链接可以由两种形式生成：<strong>行内式</strong>和<strong>参考式</strong>。  <br />
-<strong>行内式</strong>：</p>
+<p>Effect:</p>
 <blockquote>
-  <p>[younghz的Markdown库](https:://github.com/younghz/Markdown “Markdown”)。</p>
+  <ol>
+    <li>The first item</li>
+    <li>The second item</li>
+    <li>The third item</li>
+  </ol>
 </blockquote>
 
-<p>效果：</p>
+<h4 id="47-dividing-line">4.7 Dividing line</h4>
+<p>The most commonly used dividing line is three or more <code class="language-plaintext highlighter-rouge">*</code>, and <code class="language-plaintext highlighter-rouge">-</code> and <code class="language-plaintext highlighter-rouge">_</code> can also be used.</p>
+
+<h4 id="48-links">4.8 Links</h4>
+<p>Links can be generated in two forms: <strong>inline</strong> and <strong>reference</strong>.
+<strong>Inline</strong>:</p>
 <blockquote>
-  <p><a href="https:://github.com/younghz/Markdown" title="Markdown">younghz的Markdown库</a>。</p>
+  <p>[younghz’s Markdown library](https:://github.com/younghz/Markdown “Markdown”).</p>
 </blockquote>
 
-<p><strong>参考式</strong>：</p>
+<p>Effect:</p>
 <blockquote>
-  <p>[younghz的Markdown库1][1]  <br />
-[younghz的Markdown库2][2]  <br />
-[1]:https:://github.com/younghz/Markdown “Markdown”  <br />
-[2]:https:://github.com/younghz/Markdown “Markdown”</p>
+  <p><a href="https://github.com/younghz/Markdown" title="Markdown">younghz’s Markdown library</a>.</p>
 </blockquote>
 
-<p>效果：</p>
+<p><strong>Reference formula</strong>:</p>
 <blockquote>
-  <p><a href="https:://github.com/younghz/Markdown" title="Markdown">younghz的Markdown库1</a>  <br />
-<a href="https:://github.com/younghz/Markdown" title="Markdown">younghz的Markdown库2</a></p>
+  <p>[younghz’s Markdown library 1][1]
+[younghz’s Markdown library 2][2]
+[1]: https:://github.com/younghz/Markdown “Markdown”
+[2]: https:://github.com/younghz/Markdown “Markdown”</p>
 </blockquote>
 
-<p><strong>注意</strong>：上述的<code class="language-plaintext highlighter-rouge">[1]:https:://github.com/younghz/Markdown "Markdown"</code>不出现在区块中。</p>
+<p>Effect:</p>
+<blockquote>
+  <p><a href="https:://github.com/younghz/Markdown" title="Markdown">younghz’s Markdown library 1</a>
+<a href="https:://github.com/younghz/Markdown" title="Markdown">younghz’s Markdown library 2</a></p>
+</blockquote>
 
-<h4 id="49-图片">4.9 图片</h4>
-<p>添加图片的形式和链接相似，只需在链接的基础上前方加一个<code class="language-plaintext highlighter-rouge">！</code>。</p>
-<h4 id="410-反斜杠">4.10 反斜杠<code class="language-plaintext highlighter-rouge">\</code></h4>
-<p>相当于<strong>反转义</strong>作用。使符号成为普通符号。</p>
-<h4 id="411-符号">4.11 符号’`’</h4>
-<p>起到标记作用。如：</p>
+<p><strong>Note</strong>: The above <code class="language-plaintext highlighter-rouge">[1]:https:://github.com/younghz/Markdown "Markdown"</code> does not appear in the block.</p>
+
+<h4 id="49-pictures">4.9 Pictures</h4>
+<p>The form of adding a picture is similar to that of a link, just add a <code class="language-plaintext highlighter-rouge">! </code>.</p>
+<h4 id="410-backslash-">4.10 Backslash <code class="language-plaintext highlighter-rouge">\</code></h4>
+<p>Equivalent to <strong>anti-sense</strong> effect. Make the symbol a normal symbol.</p>
+<h4 id="411-symbol-">4.11 Symbol ‘`’</h4>
+<p>Act as a marker. like:</p>
 <blockquote>
   <p>`ctrl+a`</p>
 </blockquote>
 
-<p>效果：</p>
+<p>Effect:</p>
 <blockquote>
   <p><code class="language-plaintext highlighter-rouge">ctrl+a</code></p>
 </blockquote>
 
-<h4 id="5-谁在用">5. <em>谁</em>在用？</h4>
-<p>Markdown的使用者：</p>
+<h4 id="5-who-is-using-it">5. <em>Who</em> is using it?</h4>
+<p>Markdown users:</p>
 <ul>
   <li>GitHub</li>
-  <li>简书</li>
-  <li>Stack Overflow</li>
-  <li>Apollo</li>
+  <li>simple book</li>
+  <li>Stack Overflow
++Apollo</li>
   <li>Moodle</li>
   <li>Reddit</li>
-  <li>等等</li>
+  <li>wait</li>
 </ul>
 
-<h4 id="6-尝试一下">6. 尝试一下</h4>
+<h4 id="6-give-it-a-try">6. Give it a try</h4>
 <ul>
-  <li><strong>Chrome</strong>下的插件诸如<code class="language-plaintext highlighter-rouge">stackedit</code>与<code class="language-plaintext highlighter-rouge">markdown-here</code>等非常方便，也不用担心平台受限。</li>
-  <li><strong>在线</strong>的dillinger.io评价也不错</li>
-  <li><strong>Windowns</strong>下的MarkdownPad也用过，不过免费版的体验不是很好。</li>
-  <li><strong>Mac</strong>下的Mou是国人贡献的，口碑很好。</li>
-  <li><strong>Linux</strong>下的ReText不错。</li>
+  <li>Plugins under <strong>Chrome</strong> such as <code class="language-plaintext highlighter-rouge">stackedit</code> and <code class="language-plaintext highlighter-rouge">markdown-here</code> are very convenient, and you don’t have to worry about platform restrictions.</li>
+  <li>Dillinger.io reviews are also good <strong>online</strong></li>
+  <li>MarkdownPad under <strong>Windowns</strong> has also been used, but the experience of the free version is not very good.</li>
+  <li>Mou under <strong>Mac</strong> is contributed by Chinese people, and has a good reputation.</li>
+  <li>ReText under <strong>Linux</strong> is good.</li>
 </ul>
 
-<p><strong>当然，最终境界永远都是笔下是语法，心中格式化 :)。</strong></p>
+<p>**Of course, the ultimate state is always grammar in writing, formatting in mind :). **</p>
 
 <hr />
-<p><strong>注意</strong>：不同的Markdown解释器或工具对相应语法（扩展语法）的解释效果不尽相同，具体可参见工具的使用说明。
-虽然有人想出面搞一个所谓的标准化的Markdown，[没想到还惹怒了健在的创始人John Gruber]
-(http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/ )。
+<p><strong>Note</strong>: Different Markdown interpreters or tools have different interpretations of the corresponding syntax (extended syntax). For details, please refer to the tool’s instructions.
+Although someone wanted to come forward to create a so-called standardized Markdown, [I didn’t expect to anger the living founder John Gruber]
+(http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/).
 <em>**</em>
-以上基本是所有traditonal markdown的语法。</p>
+The above is basically the syntax of all traditonal markdown.</p>
 
-<h3 id="其它">其它：</h3>
-<p>列表的使用(非traditonal markdown)：</p>
+<h3 id="miscellaneous">Miscellaneous:</h3>
+<p>Use of lists (non traditonal markdown):</p>
 
-<p>用<code class="language-plaintext highlighter-rouge">|</code>表示表格纵向边界，表头和表内容用<code class="language-plaintext highlighter-rouge">-</code>隔开，并可用<code class="language-plaintext highlighter-rouge">:</code>进行对齐设置，两边都有<code class="language-plaintext highlighter-rouge">:</code>则表示居中，若不加<code class="language-plaintext highlighter-rouge">:</code>则默认左对齐。</p>
+<p>Use <code class="language-plaintext highlighter-rouge">|</code> to represent the vertical boundary of the table. The table header and table content are separated by <code class="language-plaintext highlighter-rouge">-</code>, and <code class="language-plaintext highlighter-rouge">:</code> can be used to set the alignment. If there is <code class="language-plaintext highlighter-rouge">:</code> on both sides, it means centering. If no <code class="language-plaintext highlighter-rouge">:</code> is added, it defaults to left alignment. .</p>
 
 <table>
   <thead>
     <tr>
-      <th style="text-align: center">代码库</th>
-      <th>链接</th>
+      <th style="text-align: center">Codebase</th>
+      <th>Links</th>
     </tr>
   </thead>
   <tbody>
@@ -322,4 +321,4 @@
   </tbody>
 </table>
 
-<p>关于其它扩展语法可参见具体工具的使用说明。</p>]]></content><author><name>younghz</name></author><category term="Markdown Language Template" /><category term="Most Important" /><category term="Initial Language" /><summary type="html"><![CDATA[主要内容 Markdown是什么？ 谁创造了它？ 为什么要使用它？ 怎么使用？ 谁在用？ 尝试一下]]></summary></entry></feed>
+<p>For other extended syntax, please refer to the instructions of specific tools.</p>]]></content><author><name>younghz</name></author><category term="Markdown Language Template" /><category term="Most Important" /><category term="Initial Language" /><summary type="html"><![CDATA[主要内容 What is Markdown**？ Who creats it？ Why use it？ How to use？ Who use it？ Try it now]]></summary></entry></feed>
