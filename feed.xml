@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-10T17:59:03+00:00</updated><id>/feed.xml</id><title type="html">Green Energy &amp;amp; Digital Process Lab</title><subtitle>Welcome to the Green Energy and Digital Process Lab, where innovation meets sustainability. Our dedicated team is at the forefront of research and development, pioneering solutions that bridge the gap between green energy and cutting-edge digital processes. With a shared commitment to a more sustainable future, we explore the intersection of renewable energy technologies and digital optimization methods. Our expertise and collaborative spirit drive us to create a world where clean energy and digital innovation coexist harmoniously, revolutionizing the way we power our planet.</subtitle><entry><title type="html">09112023 Weekly Report</title><link href="/2023/09/06/Report1.html" rel="alternate" type="text/html" title="09112023 Weekly Report" /><published>2023-09-06T00:00:00+00:00</published><updated>2023-09-10T17:58:00+00:00</updated><id>/2023/09/06/Report1</id><content type="html" xml:base="/2023/09/06/Report1.html"><![CDATA[<p><strong>Period</strong>:04/09/2023 <code class="language-plaintext highlighter-rouge">-</code> 11/09/2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-10T18:28:58+00:00</updated><id>/feed.xml</id><title type="html">Green Energy &amp;amp; Digital Process Lab</title><subtitle>Welcome to the Green Energy and Digital Process Lab, where innovation meets sustainability. Our dedicated team is at the forefront of research and development, pioneering solutions that bridge the gap between green energy and cutting-edge digital processes. With a shared commitment to a more sustainable future, we explore the intersection of renewable energy technologies and digital optimization methods. Our expertise and collaborative spirit drive us to create a world where clean energy and digital innovation coexist harmoniously, revolutionizing the way we power our planet.</subtitle><entry><title type="html">09062023 Weekly Report</title><link href="/2023/09/06/Report1.html" rel="alternate" type="text/html" title="09062023 Weekly Report" /><published>2023-09-06T00:00:00+00:00</published><updated>2023-09-10T18:27:34+00:00</updated><id>/2023/09/06/Report1</id><content type="html" xml:base="/2023/09/06/Report1.html"><![CDATA[<p><strong>Period</strong>:04/09/2023 <code class="language-plaintext highlighter-rouge">-</code> 11/09/2023</p>
 
 <h2 id="main-information">Main Information</h2>
 <blockquote>
@@ -12,29 +12,44 @@
 <h3 id="1-progress-highlight">1. Progress Highlight</h3>
 <p>The main progress of my last week includes:</p>
 <ul>
-  <li><strong>Lab Website Construction</strong> : Construct the lab website for the research group to use:uobgithub.io;</li>
+  <li><strong>Lab Website Construction</strong> : Construct the lab website for the research group to use:<a href="https://uobgithub.io">Lab Website</a>;</li>
   <li><strong>System Level Paper</strong> : System level paper drafting and reviewing;</li>
   <li><strong>Component Level Model</strong> : Construct the component level model of electrolysers with  <a href="https://github.com/weightking">Dr.Duo Zhang</a> to further use;</li>
-  <li><strong>Hardware Updating</strong> : Purchase a new laptop and GPU-4090 to acclerate current work;</li>
+  <li><strong>Hardware Update</strong> : Purchase a new laptop and <a href="https://www.nvidia.com/en-gb/geforce/graphics-cards/40-series/rtx-4090/">GPU-4090</a> to acclerate current progress;</li>
 </ul>
 
 <h3 id="2-progress-details">2. Progress Details</h3>
 <h4 id="21-lab-website-construction">2.1 Lab Website Construction</h4>
-<p>Main Changelog：<br />
-1）Add Template Pages</p>
+<p>Changelog for Developer：<br />
+1）Report Pages</p>
 <blockquote>
-  <p>Post Updates 
-<code class="language-plaintext highlighter-rouge">=========</code> <br />
-Second Caption<br />
-<code class="language-plaintext highlighter-rouge">---------</code></p>
+  <ul>
+    <li>Post Updates</li>
+    <li>Template Updates</li>
+    <li>Weekly Report Updates</li>
+  </ul>
 </blockquote>
 
-<p>Result：</p>
+<p>2）Research Pages</p>
 <blockquote>
-  <h1 id="first-caption">First Caption</h1>
-  <p>Second Caption 
-———</p>
-</blockquote>]]></content><author><name>Haotian Ma</name></author><category term="Weekly Report" /><category term="Hydrogen &amp; Grid" /><category term="Numerical Simulation" /><summary type="html"><![CDATA[Period:04/09/2023 - 11/09/2023]]></summary></entry><entry><title type="html">Markdown Template</title><link href="/2000/01/01/Template.html" rel="alternate" type="text/html" title="Markdown Template" /><published>2000-01-01T00:00:00+00:00</published><updated>2023-09-10T17:58:00+00:00</updated><id>/2000/01/01/Template</id><content type="html" xml:base="/2000/01/01/Template.html"><![CDATA[<h2 id="layout">LAYOUT</h2>
+  <ul>
+    <li>Historical Research Update</li>
+    <li>Page Construction</li>
+  </ul>
+</blockquote>
+
+<p>3）Project Pages</p>
+<blockquote>
+  <ul>
+    <li>Historical Porject Update</li>
+    <li>Open for Collaboration</li>
+    <li>Page Construction</li>
+  </ul>
+</blockquote>
+
+<h4 id="22-system-level-paper">2.2 System Level Paper</h4>
+<h4 id="23-component-level-model">2.3 Component Level Model</h4>
+<h4 id="24-hardware-updating">2.4 Hardware Updating</h4>]]></content><author><name>Haotian Ma</name></author><category term="Weekly Report" /><category term="Hydrogen &amp; Grid" /><category term="Numerical Simulation" /><summary type="html"><![CDATA[Period:04/09/2023 - 11/09/2023]]></summary></entry><entry><title type="html">Markdown Template</title><link href="/2000/01/01/Template.html" rel="alternate" type="text/html" title="Markdown Template" /><published>2000-01-01T00:00:00+00:00</published><updated>2023-09-10T18:27:34+00:00</updated><id>/2000/01/01/Template</id><content type="html" xml:base="/2000/01/01/Template.html"><![CDATA[<h2 id="layout">LAYOUT</h2>
 <blockquote>
   <h4 id="what-is-markdown"><em>What</em> is <strong>Markdown</strong>？</h4>
   <h4 id="who-creats-it"><em>Who</em> creats it？</h4>
