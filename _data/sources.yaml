@@ -1,23 +1,26 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1016/j.rser.2010.06.014
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: The present review is a critical appraisal of the commercialization potential of microalgae biofuels. 
+  date: 2010-12-4
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1364032110001619-gr3.jpg
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
+    - type: Biofuels
+      link: https://en.wikipedia.org/wiki/Biofuel
     - type: source
       text: Manuscript Source
       link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - Commercialization
+    - Biofuels
+  repo: https://www.sciencedirect.com/science/article/pii/S1364032110001619
 
 - id: doi:10.1016/j.energy.2023.127922
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0360544223013166-gr13_lrg.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1016/j.fuel.2022.126368
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0016236122031921-ga1_lrg.jpg
+
+- id: doi:10.1007/s40747-022-00724-7
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40747-022-00724-7/MediaObjects/40747_2022_724_Fig1_HTML.png?as=webp
+
