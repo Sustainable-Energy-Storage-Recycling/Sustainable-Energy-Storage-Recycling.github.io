@@ -20,27 +20,27 @@
 - title: Others1
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://github.com/TSdreamer
   description: There are blanks here left here to be discovered and filled.
   repo: uowhydrogen.github.io
   tags:
-    - resource
-    - publication
+    - applied mathmatics
+    - chemical engineering
 
 - title: Others2
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://github.com/TSdreamer
   description: There are blanks here left here to be discovered and filled.
   repo: uowhydrogen.github.io
   tags:
-    - software
+    - chemical engineering
 
 - title: Others3
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://github.com/TSdreamer
   description: There are blanks here left here to be discovered and filled.
   repo: uowhydrogen.github.io
   tags:
-    - software
+    - applied mathmatics
