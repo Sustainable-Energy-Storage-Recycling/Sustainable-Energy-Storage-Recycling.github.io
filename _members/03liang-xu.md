@@ -1,6 +1,6 @@
 ---
 name: Liang Xu
-image: profile\04liang-xu.jpg
+image: profile/04liang-xu.jpg
 role: phd
 description: Ph.D. Student
 group: alum

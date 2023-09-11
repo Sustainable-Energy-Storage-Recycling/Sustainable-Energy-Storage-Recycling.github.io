@@ -1,6 +1,6 @@
 ---
 name: Haotian Ma
-image: profile\05haotian-ma.jpg
+image: profile/05haotian-ma.jpg
 role: phd
 description: Ph.D. Student
 
