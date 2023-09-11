@@ -10,7 +10,7 @@ nav:
 Our work focus on the big topic of "Industry 4.0",and paid closed attention to the following topics including  
 -1.Chemical Engineering;  
 -2.Artifical Intelligence;  
--3.Computer Vision;
+-3.Computer Vision;  
 -4.Virtural Reality;
 
 For more details,please contact [Prof.Sai Gu](https://warwick.ac.uk/fac/sci/eng/people/sai_gu/) for more information.
