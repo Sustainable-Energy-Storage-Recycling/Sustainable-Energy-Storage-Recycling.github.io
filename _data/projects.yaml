@@ -1,11 +1,11 @@
 - title: Industrial 6th sense
-  subtitle: Intergrate artificial intelligence,virtural reality, human-computer interaction and etc to improve industry development.
+  subtitle: Intergrate artificial intelligence,virtural reality,human-computer interaction to improve traditional chemical industry.
   group: featured
   image: images/6th project.PNG
   link: https://www.youtube.com/watch?v=Cqqmg0jK5TA&t=55s
-  description: Integrate the stationary sensor, boston dynamic spot dog, ROS robot with the server and front end web page so that we can remotely operate ROS robot or Spot dog robot. 
+  description: Case-Integrate the stationary sensor, boston dynamic spot dog, ROS robot with the server and front end web page so that we can remotely operate ROS robot or Spot dog robot. 
   tags:
-    - Virtural Reality
+    - Virtural Reality  
     - Artificial Intelligence  
 
 - title: Green Gas Catalyst
@@ -15,7 +15,7 @@
   link: https://ggcatalysts.co.uk/
   description: The University of Surrey and the University of Alicante collaborated to patent a solid oxide material that is affordable and effective for catalysing CO2-rich bi-reformation.
   tags:
-    - Greenhouse Gases
+    - Greenhouse Gases  
     - Catalysts
 
 - title: Others1
