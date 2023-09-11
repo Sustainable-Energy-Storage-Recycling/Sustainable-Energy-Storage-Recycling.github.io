@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-For more details,please contact [Prof.Sai Gu](https://warwick.ac.uk/fac/sci/eng/people/sai_gu/) for more information.
+For more details,please contact [Mr.Haotian Ma](https://github.com/TSdreamer) for more information.
 
 {%
   include button.html
@@ -34,8 +34,7 @@ For more details,please contact [Prof.Sai Gu](https://warwick.ac.uk/fac/sci/eng/
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/applied mathmatics.png"
 %}
 
 {% endcapture %}
@@ -44,8 +43,7 @@ For more details,please contact [Prof.Sai Gu](https://warwick.ac.uk/fac/sci/eng/
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/chemical engineering.png"
 %}
 
 {% endcapture %}
@@ -54,22 +52,5 @@ For more details,please contact [Prof.Sai Gu](https://warwick.ac.uk/fac/sci/eng/
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
