@@ -1,22 +1,15 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.energy.2023.127922
+  title: '4E analysis of the cryogenic CO2 separation process integrated with waste heat recovery'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
+  - Nandakishora Y.
+  - Ranjit K. Sahoo
+  - Murugan S.
   - Sai Gu
-  publisher: Fuel
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
+  publisher: Energy
+  date: '2023-09-01'
+  link: https://doi.org/10.1016/j.energy.2023.127922
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
