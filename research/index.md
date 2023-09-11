@@ -7,11 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our work focus on the big topic of "Industry 4.0",and paid closed attention to the following topics including  
--1.Chemical Engineering;  
--2.Artifical Intelligence;  
--3.Computer Vision;  
--4.Virtural Reality;
+Our work is centered on advancing the foundational elements of the hydrogen economy, with a primary emphasis on two key disciplines:Chemical engineering and applied mathmatics. By combining the expertise of chemical engineering and applied mathematics, we strive to unlock new insights, innovations, and solutions to accelerate the transition towards a sustainable hydrogen-based economy.
 
 For more details,please contact [Prof.Sai Gu](https://warwick.ac.uk/fac/sci/eng/people/sai_gu/) for more information.
 
