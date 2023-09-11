@@ -7,4 +7,5 @@ description: Ph.D. Student
 
 ---
 
-Ph.D. student at the University of Warwick.
+Ph.D. student at the University of Warwick.  
+Research Topic : Affective Computing of AI
