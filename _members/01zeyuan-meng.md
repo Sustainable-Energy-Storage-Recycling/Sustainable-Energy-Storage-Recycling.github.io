@@ -1,6 +1,6 @@
 ---
 name: Zeyuan Meng
-image: profile/02zeyuan-meng.jpeg
+image: profile/02zeyuan-meng.jpg
 role: phd
 description: Ph.D. Student
 
