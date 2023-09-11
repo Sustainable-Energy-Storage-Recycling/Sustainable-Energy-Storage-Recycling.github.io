@@ -1,7 +1,7 @@
 ---
 name: Junxian Wang
 image: images/photo.jpg
-role: Ph.D. Student
+role: phd
 description: Ph.D. Student
 
 

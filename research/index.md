@@ -12,7 +12,7 @@ Our work focus on the big topic of "Industry 4.0",and paid closed attention to t
 -2.Artifical Intelligence;  
 -3.Computer Vision;
 
-For more details,please contact [Prof Sai Gu](https://warwick.ac.uk/fac/sci/eng/people/sai_gu/) for more information.
+For more details,please contact [Prof.Sai Gu](https://warwick.ac.uk/fac/sci/eng/people/sai_gu/) for more information.
 
 {% include section.html %}
 

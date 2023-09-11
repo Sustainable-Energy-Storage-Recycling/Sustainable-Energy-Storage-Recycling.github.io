@@ -6,7 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
-We are open for the industrial collaboration all over the world. Please contact [Mr Haotian Ma](https://github.com/TSdreamer) for more information.
+We are open for the industrial collaboration all over the world. Please contact [Prof.Sai Gu](https://warwick.ac.uk/fac/sci/eng/people/sai_gu/) for more information.
 
 {% include tags.html tags="publication, resource, website" %}
 

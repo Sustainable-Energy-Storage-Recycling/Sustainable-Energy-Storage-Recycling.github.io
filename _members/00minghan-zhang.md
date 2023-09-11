@@ -1,7 +1,7 @@
 ---
 name: Minghan Zhang
 image: images/photo.jpg
-role: Ph.D. Student
+role: phd
 description: Ph.D. Student
 
 
