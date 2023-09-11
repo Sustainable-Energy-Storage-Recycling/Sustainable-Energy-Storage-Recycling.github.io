@@ -1,7 +1,13 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+<<<<<<< HEAD
 - id: doi:10.1016/2022.126368
   title: Performance of intrinsic heteroatoms in cobalt phosphide loaded ginkgo leave-based carbon material on promoting the electrocatalytic activity during hydrogen evolution reaction and oxygen evolution reaction
+=======
+- id: doi:10.1093/nar/gkad289
+  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
+    and user-created collections of genes'
+>>>>>>> 7064d5aed50c3eb3d01ccf422aaddfec2e70c9c0
   authors:
   - Qichang Wang
   - Vincent Rubinetti
@@ -12,14 +18,20 @@
   - Everaldo Rodolpho
   - Ginger Tsueng
   - Casey Greene
+<<<<<<< HEAD
   - Sai Gu
   publisher: Fuel
   date: '2023-02-01'
   link: https://doi.org/10.1016/j.fuel.2022.126368
+=======
+  - Chunlei Wu
+  publisher: Nucleic Acids Research
+  date: '2023-04-18'
+  link: https://doi.org/gr5hb5
+>>>>>>> 7064d5aed50c3eb3d01ccf422aaddfec2e70c9c0
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1101/2023.01.05.522941
   title: Hetnet connectivity search provides rapid insights into how two biomedical
     entities are related
