@@ -17,16 +17,11 @@ Our team plays a pivotal role in shaping the digital landscape of our company, f
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-We are a committed team of experts brought together by a shared goal to stimulate innovation, enhance efficiency, and uphold excellence in all aspects of energy-related operations within our organization. Our team stands at the forefront of reshaping digital landscape, nurturing collaboration, and championing sustainable practices within the energy sector.
-
 {% include section.html %}
 
 {% capture content %}
 
-
 {% endcapture %}
-
-
 
 
 {% include grid.html style="square" content=content %}
