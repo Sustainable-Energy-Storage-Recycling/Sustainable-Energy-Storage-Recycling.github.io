@@ -90,27 +90,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -126,6 +110,30 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.rser.2010.06.014
+  title: Commercialization potential of microalgae for biofuels production
+  authors:
+  - Jasvinder Singh
+  - Sai Gu
+  publisher: Renewable and Sustainable Energy Reviews
+  date: '2010-12-04'
+  link: https://doi.org/br3rw9
+  type: paper
+  description: The present review is a critical appraisal of the commercialization
+    potential of microalgae biofuels.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1364032110001619-gr3.jpg
+  buttons:
+  - type: Biofuels
+    link: https://en.wikipedia.org/wiki/Biofuel
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  tags:
+  - Commercialization
+  - Biofuels
+  repo: https://www.sciencedirect.com/science/article/pii/S1364032110001619
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.energy.2023.127922
   title: 4E analysis of the cryogenic CO2 separation process integrated with waste
     heat recovery
@@ -140,19 +148,34 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0360544223013166-gr13_lrg.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1016/j.fuel.2022.126368
+  title: Performance of intrinsic heteroatoms in cobalt phosphide loaded ginkgo leave-based
+    carbon material on promoting the electrocatalytic activity during hydrogen evolution
+    reaction and oxygen evolution reaction
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Qichang Wang
+  - Ran Yu
+  - Dekui Shen
+  - Qian Liu
+  - Kai Hong Luo
+  - Chunfei Wu
+  - Sai Gu
+  publisher: Fuel
+  date: '2023-02-01'
+  link: https://doi.org/gspw2c
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0016236122031921-ga1_lrg.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s40747-022-00724-7
+  title: 'The use of deep learning methods in low-dose computed tomography image reconstruction:
+    a systematic review'
+  authors:
+  - Minghan Zhang
+  - Sai Gu
+  - Yuhui Shi
+  publisher: Complex &amp; Intelligent Systems
+  date: '2022-05-28'
+  link: https://doi.org/gspw2d
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40747-022-00724-7/MediaObjects/40747_2022_724_Fig1_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
