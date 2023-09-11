@@ -15,9 +15,6 @@ Our team plays a pivotal role in shaping the digital landscape of our company, f
 {% include list.html data="members" component="portrait" filters="role: pi" %}<p></p>
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-{% include section.html %}
 
 {% capture content %}
 
