@@ -28,7 +28,6 @@ For more details,please contact [Prof.Sai Gu](https://warwick.ac.uk/fac/sci/eng/
 
 
 ## All
-{% include section.html %}
 
 {% include search-box.html %}
 
