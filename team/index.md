@@ -24,6 +24,7 @@ We are a committed team of experts brought together by a shared goal to stimulat
 {% capture content %}
 
 {% include figure.html image="profile/01sai-gu.jpg" %}
+{% include figure.html image="profile/06minghan-zhang.jpeg" %}
 {% include figure.html image="profile/02zeyuan-meng.jpg" %}
 {% include figure.html image="profile/03junxian-wang.jpg" %}
 {% include figure.html image="profile/04liang-xu.jpg" %}
