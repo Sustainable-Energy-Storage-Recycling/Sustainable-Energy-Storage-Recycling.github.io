@@ -3,6 +3,7 @@
 - id: doi:10.1016/j.energy.2023.127922
   title: '4E analysis of the cryogenic CO2 separation process integrated with waste heat recovery'
   authors:
+<<<<<<< HEAD
   - Nandakishora Y.
   - Ranjit K. Sahoo
   - Murugan S.
@@ -10,6 +11,21 @@
   publisher: Energy
   date: '2023-09-01'
   link: https://doi.org/10.1016/j.energy.2023.127922
+=======
+  - Ricardo Avila
+  - Vincent Rubinetti
+  - Xinghua Zhou
+  - Dongbo Hu
+  - Zhongchao Qian
+  - Marco Alvarado Cano
+  - Everaldo Rodolpho
+  - Ginger Tsueng
+  - Casey Greene
+  - Chunlei Wu
+  publisher: Nucleic Acids Research
+  date: '2023-04-18'
+  link: https://doi.org/gr5hb5
+>>>>>>> 006afa975730dc2f2ef36e389684863bf37de47a
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
