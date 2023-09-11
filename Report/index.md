@@ -5,7 +5,7 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Report
 
 Here is the weekly report uploaded from the Ph.D. students in the Group.
 

@@ -32,7 +32,7 @@ Equipped with state-of-the-art equipment and testing facilities, the lab conduct
   include button.html
   link="research"
   text="See our publications"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}
@@ -80,7 +80,7 @@ We're a dedicated and diverse group of experts in renewable energy and digital o
   include button.html
   link="team"
   text="Meet our Team"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}
