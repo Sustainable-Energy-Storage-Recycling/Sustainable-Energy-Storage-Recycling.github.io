@@ -5,7 +5,7 @@ role: phd
 description: Ph.D. Student
 group: alum
 links:
-  github: https://github.com/leoxu
+  github: https://github.com/IamLeoXu
 ---
 
 2022-now , Ph.D. student in Electrical and Electronic Engineering, at the University of Warwick  
