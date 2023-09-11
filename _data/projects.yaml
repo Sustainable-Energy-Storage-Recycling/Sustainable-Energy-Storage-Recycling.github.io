@@ -1,7 +1,7 @@
 - title: Industrial 6th sense
   subtitle: Intergrate artificial intelligence,virtural reality, human-computer interaction,cyber security and etc to improve industry development (safety, efficiency, economy).
   group: featured
-  image: images/6th project.png
+  image: images/6th project.PNG
   link: https://www.youtube.com/watch?v=Cqqmg0jK5TA&t=55s
   description: Integrate the stationary sensor (developed with ESP8266), boston dynamic spot dog, ROS robot with the server (developed with Node.js) and front end web page so that we can remotely operate ROS robot or Spot dog robot. 
   tags:
