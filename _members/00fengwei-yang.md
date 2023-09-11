@@ -1,6 +1,6 @@
 ---
 name: Fengwei Yang
-image: images/photo.jpg
+image: profile\07fengwei-yang.png
 role: postdoc
 description: Postgraduate Researcher
 
