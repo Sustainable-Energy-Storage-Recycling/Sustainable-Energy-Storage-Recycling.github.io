@@ -23,9 +23,9 @@ For more details,please contact [Mr.Haotian Ma](https://github.com/TSdreamer) fo
 %}
 {%
   include button.html
-  type="address"
+  type="our address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/University+of+Warwick/@52.3792557,-1.5640507,17z/data=!4m14!1m7!3m6!1s0x48774ac696d53ee5:0xaa928d75708b2b54!2sUniversity+of+Warwick!8m2!3d52.3792525!4d-1.5614704!16zL20vMGdsNmY!3m5!1s0x48774ac696d53ee5:0xaa928d75708b2b54!8m2!3d52.3792525!4d-1.5614704!16zL20vMGdsNmY?entry=ttu"
 %}
 
 {% include section.html %}
