@@ -6,7 +6,7 @@ description: Ph.D. Student
 
 links:
   github: https://github.com/TSdreamer
-  homepage: https://TSuenergy.com
+  data: https://TSuenergy.com
 ---
 
 Ph.D. student at the University of Warwick.  
