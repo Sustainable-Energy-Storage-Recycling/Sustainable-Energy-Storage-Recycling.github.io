@@ -1,6 +1,7 @@
 # Changelog
 
 Reference: In Operation
+
 ## 1.1.6 - 2023-09-06
 
 ### Changes
