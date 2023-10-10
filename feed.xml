@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-10T06:02:45+00:00</updated><id>/feed.xml</id><title type="html">Green Energy &amp;amp; Digital Process Lab</title><subtitle>Welcome to the Green Energy and Digital Process Lab, where innovation meets sustainability. Our dedicated team is at the forefront of research and development, pioneering solutions that bridge the gap between green energy and cutting-edge digital processes. With a shared commitment to a more sustainable future, we explore the intersection of renewable energy technologies and digital optimization methods. Our expertise and collaborative spirit drive us to create a world where clean energy and digital innovation coexist harmoniously, revolutionizing the way we power our planet.</subtitle><entry><title type="html">09062023 Report</title><link href="/2023/09/06/Report.html" rel="alternate" type="text/html" title="09062023 Report" /><published>2023-09-06T00:00:00+00:00</published><updated>2023-10-10T05:01:55+00:00</updated><id>/2023/09/06/Report</id><content type="html" xml:base="/2023/09/06/Report.html"><![CDATA[<h2 id="main-information">Main Information</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-10T06:07:27+00:00</updated><id>/feed.xml</id><title type="html">Green Energy &amp;amp; Digital Process Lab</title><subtitle>Welcome to the Green Energy and Digital Process Lab, where innovation meets sustainability. Our dedicated team is at the forefront of research and development, pioneering solutions that bridge the gap between green energy and cutting-edge digital processes. With a shared commitment to a more sustainable future, we explore the intersection of renewable energy technologies and digital optimization methods. Our expertise and collaborative spirit drive us to create a world where clean energy and digital innovation coexist harmoniously, revolutionizing the way we power our planet.</subtitle><entry><title type="html">10092023 Report</title><link href="/2023/10/09/Report.html" rel="alternate" type="text/html" title="10092023 Report" /><published>2023-10-09T00:00:00+00:00</published><updated>2023-10-10T05:06:38+00:00</updated><id>/2023/10/09/Report</id><content type="html" xml:base="/2023/10/09/Report.html"><![CDATA[<h2 id="main-information">Main Information</h2>
+<h3 id="1-research-progress">1. Research Progress</h3>
+<h4 id="11-paper-1-submitted-">1.1 Paper 1 (Submitted) :</h4>
+<blockquote>
+  <ul>
+    <li>Technical and economic performance assessment of blue hydrogen production using new configuration through modelling and simulation</li>
+    <li>Journal: International Journal of Greenhouse Gas Control</li>
+    <li>Manuscript Number: JGGC-D-23-00553</li>
+    <li>In this paper, my primary contribution is mainly to construct aspen based models for the blue hydrogen production, and Dr Alasdair N Campbell helps to review the paper. Mr. Yiming Li is the first author of this paper.</li>
+  </ul>
+</blockquote>
+
+<h4 id="12-paper-2-writing-stage-">1.2 Paper 2 (writing stage) :</h4>
+<blockquote>
+  <ul>
+    <li>Techno-economic assessment of electrolytic hydrogen production under dynamic operations(Temporary)</li>
+    <li>Target Journal: International Journal of Hydrogen Energy</li>
+    <li>Author:Haotian Ma,Zhan Xu, Dr Bahman Amini Horri,Sai Gu</li>
+    <li>In this paper, my primary contribution is to construct the model and write the paper, Mr.Zhan Xu from University of Birmingham helped to calculate the LCOH of the hydrogen production system, while the Dr.Horri provided the necessary data and patent for analysing.</li>
+  </ul>
+</blockquote>
+
+<h4 id="13-paper-3-writing-stage-">1.3 Paper 3 (writing stage) :</h4>
+<blockquote>
+  <ul>
+    <li>A Comprehensive Machine Learning Approach to MEA Database Development and Evaluation in PEM Electrolysers</li>
+    <li>Target Journal: International Journal of Greenhouse Gas Control</li>
+    <li>Author: Haotian Ma, Haoxin Ma, Gongjin Chen, Dr.Leandro L Minku</li>
+    <li>In this paper, my primary contribution is to construct the model and write the paper,Miss Haoxin Ma from University of Chinese Academy of Sciences provided the necessary algorithm coding support, Mr.Gongjin Chen from Hong Kong University of Science and Technology helped to construct and optimize the database, and Dr.Leandro L Minku from University of Birmingham is the reviewer of the paper.</li>
+  </ul>
+</blockquote>
+
+<h3 id="2-teaching-and-learning-updates">2. Teaching and Learning Updates</h3>
+<blockquote>
+  <ul>
+    <li>Teaching: I am currently the teaching assistant of following courses from School of Engineering: Bridging Maths Programme and Electromechanical System Design.</li>
+    <li>Learning: I have participated the audited course from the School of Statistics and School of Computer Science for the following courses: CS409(Algorithmic Game Theory), SC410(Formal Systems Development), ST413(Bayesian Statistics and Decision Theory), ES4F0(Advanced Control Systems), CS910(Foundations of Data Analytics)</li>
+  </ul>
+</blockquote>
+
+<h3 id="3-adminstration--business-progress">3. Adminstration &amp; Business Progress</h3>
+<blockquote>
+  <ul>
+    <li>There is no significant progress in this part.</li>
+  </ul>
+</blockquote>
+
+<h3 id="4-next-weeks-plan">4. Next Week’s Plan</h3>
+<blockquote>
+  <ul>
+    <li>Regenerate the third chapter of the paper.</li>
+    <li>Using LTSPICES for analysing the given system,try to draw the model of it.</li>
+  </ul>
+</blockquote>]]></content><author><name>Haotian MA</name></author><category term="Personal Updates" /><category term="Hydrogen &amp; Grid" /><category term="Numerical Simulation" /><summary type="html"><![CDATA[Main Information 1. Research Progress 1.1 Paper 1 (Submitted) : Technical and economic performance assessment of blue hydrogen production using new configuration through modelling and simulation Journal: International Journal of Greenhouse Gas Control Manuscript Number: JGGC-D-23-00553 In this paper, my primary contribution is mainly to construct aspen based models for the blue hydrogen production, and Dr Alasdair N Campbell helps to review the paper. Mr. Yiming Li is the first author of this paper.]]></summary></entry><entry><title type="html">09062023 Report</title><link href="/2023/09/06/Report.html" rel="alternate" type="text/html" title="09062023 Report" /><published>2023-09-06T00:00:00+00:00</published><updated>2023-10-10T05:06:38+00:00</updated><id>/2023/09/06/Report</id><content type="html" xml:base="/2023/09/06/Report.html"><![CDATA[<h2 id="main-information">Main Information</h2>
 <h3 id="1-progress-highlight">1. Progress Highlight</h3>
 <p>The main progress of my last week includes:</p>
 <ul>
@@ -49,7 +102,7 @@
 <h3 id="3-literature-review">3. Literature Review</h3>
 <p>There are minimum 10 paper required to be read each week.</p>
 
-<p>Hellppppppppp</p>]]></content><author><name>Haotian MA</name></author><category term="Weekly Report" /><category term="Hydrogen &amp; Grid" /><category term="Numerical Simulation" /><summary type="html"><![CDATA[Main Information 1. Progress Highlight The main progress of my last week includes: Lab Website Construction : Construct the lab website for the research group to use Lab Website; System Level Paper : System level paper drafting and reviewing; Component Level Model : Construct the component level model of electrolysers with Dr.Duo Zhang to further use; Hardware Update : Purchase a new laptop and GPU-4090 to acclerate current progress;]]></summary></entry><entry><title type="html">Markdown Template</title><link href="/2000/01/01/Template.html" rel="alternate" type="text/html" title="Markdown Template" /><published>2000-01-01T00:00:00+00:00</published><updated>2023-10-10T05:01:55+00:00</updated><id>/2000/01/01/Template</id><content type="html" xml:base="/2000/01/01/Template.html"><![CDATA[<h2 id="layout">LAYOUT</h2>
+<p>Hellppppppppp</p>]]></content><author><name>Haotian MA</name></author><category term="Weekly Report" /><category term="Hydrogen &amp; Grid" /><category term="Numerical Simulation" /><summary type="html"><![CDATA[Main Information 1. Progress Highlight The main progress of my last week includes: Lab Website Construction : Construct the lab website for the research group to use Lab Website; System Level Paper : System level paper drafting and reviewing; Component Level Model : Construct the component level model of electrolysers with Dr.Duo Zhang to further use; Hardware Update : Purchase a new laptop and GPU-4090 to acclerate current progress;]]></summary></entry><entry><title type="html">Markdown Template</title><link href="/2000/01/01/Template.html" rel="alternate" type="text/html" title="Markdown Template" /><published>2000-01-01T00:00:00+00:00</published><updated>2023-10-10T05:06:38+00:00</updated><id>/2000/01/01/Template</id><content type="html" xml:base="/2000/01/01/Template.html"><![CDATA[<h2 id="layout">LAYOUT</h2>
 <blockquote>
   <h4 id="what-is-markdown"><em>What</em> is <strong>Markdown</strong>？</h4>
   <h4 id="who-creats-it"><em>Who</em> creats it？</h4>
