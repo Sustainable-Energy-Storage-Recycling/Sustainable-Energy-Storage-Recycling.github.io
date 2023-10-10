@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Report
 
-Here is the weekly report uploaded from the Ph.D. students in the Group.
+Here are the reports uploaded from the Ph.D. students in the Group.
 
 {% include section.html %}
 
