@@ -18,15 +18,15 @@
     - Greenhouse Gases  
     - Catalysts
 
-- title: Others1
-  subtitle: a subtitle
+- title: TSu Energy
+  subtitle: Provide a highly effective algorithm control to the electrolyser
   image: images/photo.jpg
-  link: https://github.com/TSdreamer
-  description: There are blanks here left here to be discovered and filled.
+  link: https://www.tsuenergy.com
+  description: The phd student's work
   repo: uowhydrogen.github.io
   tags:
     - Applied Mathmatics
-    - Chemical Engineering
+    - Electrical and electronics
 
 - title: Others2
   subtitle: a subtitle

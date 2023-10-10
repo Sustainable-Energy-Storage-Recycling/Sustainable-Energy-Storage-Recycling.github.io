@@ -7,6 +7,7 @@ description: Ph.D. Student
 links:
   github: https://github.com/TSdreamer
   data: https://TSuenergy.com
+  email: HaotianTeemo@outlook.com
 ---
 
 Ph.D. student at the University of Warwick.  
