@@ -131,7 +131,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960852420315121-ga1.jpg
   plugin: sources.py
   file: sources.yaml
-  - id: doi:10.1007/s40747-020-00267-9
+- id: doi:10.1007/s40747-020-00267-9
   title: Industry 4.0, a revolution that requires technology and national strategies
   authors:
   - Fengwei Yang
@@ -142,7 +142,7 @@
   image: https://dat4zero.eu/wp-content/uploads/2021/10/Industry-4.0-illustration-tinified-1024x369.jpg
   plugin: sources.py
   file: sources.yaml
-  - id: doi:10.1016/j.conengprac.2020.104637
+- id: doi:10.1016/j.conengprac.2020.104637
   title: Process fault diagnosis with model- and knowledge-based approaches-Advances and opportunities
   authors:
   - Weijun Li
