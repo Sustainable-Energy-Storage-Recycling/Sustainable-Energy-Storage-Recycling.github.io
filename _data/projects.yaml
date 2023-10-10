@@ -19,14 +19,14 @@
     - Catalysts
 
 - title: TSu Energy
-  subtitle: Provide a highly effective algorithm control to the electrolyser
-  image: images/photo.jpg
+  subtitle: Provide a data driven approach to visualize and manage the electrochemical energy system
+  image: images/tsu.png
   link: https://www.tsuenergy.com
-  description: The phd student's work
+  description: The phd students' work
   repo: uowhydrogen.github.io
   tags:
-    - Applied Mathmatics
-    - Electrical and electronics
+    - Machine Learning
+    - Electrochemical Analysis
 
 - title: Others2
   subtitle: a subtitle
