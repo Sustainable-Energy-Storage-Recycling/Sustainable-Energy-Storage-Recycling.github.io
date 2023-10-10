@@ -117,3 +117,42 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S221298202100295X-gr1_lrg.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.biortech.2020.124238
+  title: Catalytic hydrogenolysis of lignin in ethanol/isopropanol over an activated carbon supported nickel-copper catalyst
+  authors:
+  - Chongbo Cheng
+  - Pengfei Li
+  - Wenbing Yu
+  - Dekui Shen
+  - Sai Gu
+  publisher: Bioresource Technology
+  date: '2021-01-01'
+  link: https://doi.org/10.1016/j.biortech.2020.124238
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960852420315121-ga1.jpg
+  plugin: sources.py
+  file: sources.yaml
+  - id: doi:10.1007/s40747-020-00267-9
+  title: Industry 4.0, a revolution that requires technology and national strategies
+  authors:
+  - Fengwei Yang
+  - Sai Gu
+  publisher: Survey and State of the art
+  date: '2021-01-27'
+  link: https://doi.org/10.1007/s40747-020-00267-9
+  image: https://dat4zero.eu/wp-content/uploads/2021/10/Industry-4.0-illustration-tinified-1024x369.jpg
+  plugin: sources.py
+  file: sources.yaml
+  - id: doi:10.1016/j.conengprac.2020.104637
+  title: Process fault diagnosis with model- and knowledge-based approaches-Advances and opportunities
+  authors:
+  - Weijun Li
+  - Hui Li
+  - Sai Gu
+  - Tao Chen
+  publisher: Control Engineering Practice
+  date: '2020-12-01'
+  link: https://doi.org/10.1016/j.conengprac.2020.104637
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0967066120302070-gr2.jpg
+  plugin: sources.py
+  file: sources.yaml
+
