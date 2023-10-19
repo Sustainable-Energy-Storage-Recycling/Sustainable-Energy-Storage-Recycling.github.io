@@ -64,7 +64,7 @@ Our consistent collaborations with numerous industrial partners, spanning resear
 
 {%
   include feature.html
-  image="hydrogen2.jpg"
+  image="hydrogen4.png"
   link="projects"
   title="Our Projects"
   flip=true
