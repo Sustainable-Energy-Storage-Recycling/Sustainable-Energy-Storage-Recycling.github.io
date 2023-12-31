@@ -18,6 +18,17 @@
     - Greenhouse Gases  
     - Catalysts
 
+- title: UK Outstanding Young Scholars Society
+  subtitle: To support Chinese doctoral students and scholars in the UK through academic exchanges, career guidance, and development in academia, entrepreneurship, and employment.
+  group: featured
+  image: images/OYSS.jpg
+  link: https://www.oyss.org.uk/
+  description: The Outstanding Young Scholars Society, UK, founded by Professor Sai Gu, is a non-profit organization dedicated to supporting Chinese doctoral students and scholars.
+  tags:
+    - Outstanding Young Scholars
+    - China
+    - United Kingdom
+
 - title: TSu Energy
   subtitle: Provide a data driven approach to visualize and manage the electrochemical energy system
   image: images/tsu.png
