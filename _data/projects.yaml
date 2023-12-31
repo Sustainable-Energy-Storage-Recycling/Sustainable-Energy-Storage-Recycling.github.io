@@ -1,23 +1,3 @@
-- title: Industrial 6th sense
-  subtitle: Intergrate artificial intelligence,virtural reality,human-computer interaction to improve traditional chemical industry.
-  group: featured
-  image: images/6th project.PNG
-  link: https://www.youtube.com/watch?v=Cqqmg0jK5TA&t=55s
-  description: Case-Integrate the stationary sensor, boston dynamic spot dog, ROS robot with the server and front end web page so that we can remotely operate ROS robot or Spot dog robot. 
-  tags:
-    - Virtural Reality  
-    - Artificial Intelligence  
-
-- title: Green Gas Catalyst
-  subtitle: Provide a highly effective catalytic solution utilising greenhouse gases and producing high-value chemicals
-  group: featured
-  image: images/GGC.png
-  link: https://ggcatalysts.co.uk/
-  description: The University of Surrey and the University of Alicante collaborated to patent a solid oxide material that is affordable and effective for catalysing CO2-rich bi-reformation.
-  tags:
-    - Greenhouse Gases  
-    - Catalysts
-
 - title: UK Outstanding Young Scholars Society
   subtitle: To support Chinese doctoral students and scholars in the UK through academic exchanges, career guidance, and development in academia, entrepreneurship, and employment.
   group: featured
@@ -29,8 +9,19 @@
     - China
     - United Kingdom
 
+
+- title: Green Gas Catalyst
+  subtitle: Provide a highly effective catalytic solution utilising greenhouse gases and producing high-value chemicals
+  group: featured
+  image: images/GGC.png
+  link: https://ggcatalysts.co.uk/
+  description: The University of Surrey and the University of Alicante collaborated to patent a solid oxide material that is affordable and effective for catalysing CO2-rich bi-reformation.
+  tags:
+    - Greenhouse Gases  
+    - Catalysts
+
 - title: TSu Energy
-  subtitle: Provide a data driven approach to visualize and manage the electrochemical energy system
+  subtitle: Provide a data-driven approach to visualize and manage the electrochemical energy system
   image: images/tsu.png
   link: https://www.tsuenergy.com
   description: The phd students' work
@@ -38,6 +29,15 @@
   tags:
     - Machine Learning
     - Electrochemical Analysis
+
+- title: Industrial 6th sense
+  subtitle: Intergrate artificial intelligence,virtural reality,human-computer interaction to improve traditional chemical industry.
+  image: images/6th project.PNG
+  link: https://www.youtube.com/watch?v=Cqqmg0jK5TA&t=55s
+  description: Case-Integrate the stationary sensor, boston dynamic spot dog, ROS robot with the server and front end web page so that we can remotely operate ROS robot or Spot dog robot. 
+  tags:
+    - Virtural Reality  
+    - Artificial Intelligence  
 
 - title: Others2
   subtitle: a subtitle
@@ -48,11 +48,3 @@
   tags:
     - Chemical Engineering
 
-- title: Others3
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/TSdreamer
-  description: There are blanks here left here to be discovered and filled.
-  repo: uowhydrogen.github.io
-  tags:
-    - Applied Mathmatics
