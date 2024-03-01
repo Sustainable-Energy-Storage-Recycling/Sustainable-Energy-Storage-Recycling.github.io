@@ -1,6 +1,6 @@
 ---
 name: Qi Zhang
-image: profile/02fqizhang.png
+image: profile/02qizhang.png
 role: postdoc
 description: Postdoctoral Researcher
 
