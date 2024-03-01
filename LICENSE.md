@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2020, Green Energy and Digital Process Lab
+Copyright (c) 2020, Intelligent Energy System Lab
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
