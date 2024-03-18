@@ -1,5 +1,5 @@
 ---
-name: Derui Shi
+name: Dehan Shi
 image: profile/08derui-shi.jpg
 role: phd
 description: Ph.D. Student
