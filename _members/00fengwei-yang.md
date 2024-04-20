@@ -2,7 +2,7 @@
 name: Fengwei Yang
 image: profile/07fengwei-yang.png
 role: postdoc
-description: Postdoctoral Researcher
+description: Previous Research Fellow
 
 links:
     https://www.linkedin.com/in/fengwei-yang-fwy/
