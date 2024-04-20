@@ -7,4 +7,4 @@ description: Ph.D. Student
 
 ---
 
-Ph.D. student at the University of Warwick.
+Student at the University of Warwick.
