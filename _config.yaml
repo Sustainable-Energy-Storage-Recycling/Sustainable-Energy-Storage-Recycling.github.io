@@ -1,11 +1,12 @@
-# site properties and page defaults
-title: Intelligent Energy System Lab
-subtitle: School of Engineering , University of Warwick
-description: Welcome to the Green Energy and Digital Process Lab, where innovation meets sustainability. Our dedicated team is at the forefront of research and development, pioneering solutions that bridge the gap between green energy and cutting-edge digital processes. With a shared commitment to a more sustainable future, we explore the intersection of renewable energy technologies and digital optimization methods. Our expertise and collaborative spirit drive us to create a world where clean energy and digital innovation coexist harmoniously, revolutionizing the way we power our planet.
+# Site properties and page defaults
+title: Sustainable Energy Storage & Recycling Group (SESR Group)
+subtitle: University College London
+description: >
+  Welcome to the Sustainable Energy Storage & Recycling Group (SESR Group), led by Dr. Nikiforidis Georgios at the University College London. Our mission is to advance the development and implementation of sustainable energy storage materials and technologies, focusing on the circular economy of electric vehicle (EV) batteries, bio-energy production, and green electrolyte engineering. We are at the forefront of research and development, pioneering solutions that bridge the gap between green energy and cutting-edge digital processes. With a shared commitment to a more sustainable future, we explore the intersection of renewable energy technologies and digital optimization methods. Our expertise and collaborative spirit drive us to create a world where clean energy and digital innovation coexist harmoniously, revolutionizing the way we power our planet. Join us on this journey towards a sustainable future and discover the innovative projects and groundbreaking research being pursued by our dedicated team.
 header: images/background.jpg
 footer: images/background.jpg
 
-# site social media and other links
+# Site social media and other links
 links:
   email: haotianteemo@outlook.com
   orcid: 0000-0001-8713-9213
@@ -14,37 +15,36 @@ links:
   twitter: YourLabHandle
   youtube: https://www.youtube.com/watch?v=fkX-H24Chfw
 
+### Jekyll settings
 
-
-### jekyll settings
-
-# front matter defaults
+# Front matter defaults
 defaults:
-  # all markdown files
+  # All markdown files
   - scope:
       path: ""
     values:
       layout: default
-  # markdown files in /_members
+  # Markdown files in /_members
   - scope:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
+  # Markdown files in /_posts
   - scope:
       type: "posts"
     values:
       layout: post
 
+# Collections
 collections:
-  # generate page for each member
+  # Generate page for each member
   members:
     output: true
-  # generate page for each post
+  # Generate page for each post
   posts:
     output: true
 
-# jekyll plugins
+# Jekyll plugins
 plugins:
   - jekyll-spaceship
   - jekyll-sitemap
@@ -52,22 +52,24 @@ plugins:
   - jekyll-feed
   - jekyll-last-modified-at
 
-# code block syntax highlighting
+# Code block syntax highlighting
 highlighter: rouge
 
-# jekyll theme
+# Jekyll theme
 theme: null
 
-# sass settings
+# SASS settings
 sass:
   sass_dir: _styles
 
-# force jekyll to include certain files/folders
+# Force Jekyll to include certain files/folders
 include:
   - _styles
   - _scripts
+  - assets/images/Green-Hydrogen.jpg
+  - assets/images/energy-storage.png
 
-# force jekyll to exclude certain files/folders
+# Force Jekyll to exclude certain files/folders
 exclude:
   - README.md
   - LICENSE.md
