@@ -14,7 +14,7 @@ The **Sustainable Energy Storage & Recycling Group**(SESR Group)'s mission is to
 <!--   GreenHydrogen -->
 ![My Local Image](./Green-Hydrogen.jpg)
 
-SESRG is lead by [Dr.Nikiforidis Georgios](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao) and excuted by [Mr. Haotian Ma](https://github.com/TSdreamer). SESRG is located at the [University College London](https://www.ucl.ac.uk/) , in the [School of Chemistry](https://www.ucl.ac.uk/chemistry/) [Institute for Material Discovery](https://www.ucl.ac.uk/institute-for-materials-discovery/about).
+SESR Group is lead by [Dr.Nikiforidis Georgios](https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao) and excuted by [Mr. Haotian Ma](https://github.com/TSdreamer). SESR Group is located at the [University College London](https://www.ucl.ac.uk/) , in the [School of Chemistry](https://www.ucl.ac.uk/chemistry/) [Institute for Material Discovery](https://www.ucl.ac.uk/institute-for-materials-discovery/about).
 
 <!-- GreenEnergy-->
 ![My Local Image](./energy-storage.png)
