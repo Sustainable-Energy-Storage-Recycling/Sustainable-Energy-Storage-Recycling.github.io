@@ -1,4 +1,4 @@
-<h1 align="center">Hi Welcome to SESR Group </h1>
+<h1 align="center">👋 Welcome to SESR Group </h1>
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
