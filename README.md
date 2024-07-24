@@ -1,4 +1,4 @@
-<h1 align="center">:wave: Welcome to SESRG </h1>
+<h1 align="center">:wave: Welcome to SESR Group </h1>
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
@@ -9,7 +9,7 @@
 Welcome to the **GitHub Homepage** of the  **Sustainable Energy Storage & Recycling Group** led by **Dr.Nikiforidis Georgios** at the **University College London**. 
 
 
-The **Sustainable Energy Storage & Recycling Group**(SESRG)'s mission is to advance the development and implementation of **sustainable energy storage materials and technologies**, focusing on the **circular economy of electric vehicle (EV) batteries**, **bio-energy production**, and **green electrolyte engineering**.
+The **Sustainable Energy Storage & Recycling Group**(SESR Group)'s mission is to advance the development and implementation of **sustainable energy storage materials and technologies**, focusing on the **circular economy of electric vehicle (EV) batteries**, **bio-energy production**, and **green electrolyte engineering**.
 
 <!--   GreenHydrogen -->
 ![My Local Image](./Green-Hydrogen.jpg)
@@ -20,4 +20,4 @@ SESRG is lead by [Dr.Nikiforidis Georgios](https://scholar.google.com/citations?
 ![My Local Image](./energy-storage.png)
 
 
-For more information on the type of projects being pursued by the SESRG team, take a look at the publications page of [Dr.Nikiforidis Georgios](https://scholar.google.com/citations?user=3D4G2t8AAAAJ&hl=en&oi=ao).
+For more information on the type of projects being pursued by the SESR Group, take a look at the publications page of [Dr.Nikiforidis Georgios](https://scholar.google.com/citations?user=3D4G2t8AAAAJ&hl=en&oi=ao).
