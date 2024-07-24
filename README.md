@@ -9,7 +9,7 @@
 Welcome to the **GitHub Homepage** of the  **Sustainable Energy Storage & Recycling Group** led by **Dr.Nikiforidis Georgios** at the **University College London**. 
 
 
-The **Sustainable Energy Storage & Recycling Group**(SESR Group)'s mission is to advance the development and implementation of **sustainable energy storage materials and technologies**, focusing on the **circular economy of electric vehicle (EV) batteries**, **bio-energy production**, and **green electrolyte engineering**.
+The **Sustainable Energy Storage & Recycling Group**(SESR Group)'s mission is to advance the development and implementation of **sustainable energy storage materials and technologies**, focusing on the **Circular economy of electric vehicle (EV) batteries**, **Bio-energy production**, and **Green electrolyte engineering**.
 
 
 <!-- GreenEnergy-->
