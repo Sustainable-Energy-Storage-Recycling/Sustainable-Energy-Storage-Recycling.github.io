@@ -1,7 +1,8 @@
 # site properties and page defaults
-title: Intelligent Energy System Lab
-subtitle: School of Engineering , University of Warwick
-description: Welcome to the Green Energy and Digital Process Lab, where innovation meets sustainability. Our dedicated team is at the forefront of research and development, pioneering solutions that bridge the gap between green energy and cutting-edge digital processes. With a shared commitment to a more sustainable future, we explore the intersection of renewable energy technologies and digital optimization methods. Our expertise and collaborative spirit drive us to create a world where clean energy and digital innovation coexist harmoniously, revolutionizing the way we power our planet.
+title: Sustainable Energy Storage & Recycling Group (SESR Group)
+subtitle: School of Chemistry , University College London
+description: >
+  Welcome to the Sustainable Energy Storage & Recycling Group (SESR Group), led by Dr. Nikiforidis Georgios at the University College London. Our mission is to advance the development and implementation of sustainable energy storage materials and technologies, focusing on the circular economy of electric vehicle (EV) batteries, bio-energy production, and green electrolyte engineering. We are at the forefront of research and development, pioneering solutions that bridge the gap between green energy and cutting-edge digital processes. With a shared commitment to a more sustainable future, we explore the intersection of renewable energy technologies and digital optimization methods. Our expertise and collaborative spirit drive us to create a world where clean energy and digital innovation coexist harmoniously, revolutionizing the way we power our planet. Join us on this journey towards a sustainable future and discover the innovative projects and groundbreaking research being pursued by our dedicated team.
 header: images/background.jpg
 footer: images/background.jpg
 
@@ -9,8 +10,8 @@ footer: images/background.jpg
 links:
   email: haotianteemo@outlook.com
   orcid: 0000-0001-8713-9213
-  google-scholar: https://scholar.google.com/citations?user=EufoqsMAAAAJ&hl=en&oi=ao
-  github: UoWHydrogen
+  google-scholar: https://scholar.google.com/citations?user=3D4G2t8AAAAJ&hl=en&oi=ao
+  github: Sustainable-Energy-Storage-Recycling
   twitter: YourLabHandle
   youtube: https://www.youtube.com/watch?v=fkX-H24Chfw
 
